@@ -1,0 +1,133 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 330
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 9
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-03 ; Times: 4
+	Date: 2014-07-04 ; Times: 2
+	Date: 2014-07-06 ; Times: 2
+	Date: 2014-07-07 ; Times: 3
+	Date: 2014-07-08 ; Times: 2
+	Date: 2014-07-11 ; Times: 5
+	Date: 2014-07-15 ; Times: 13
+	Date: 2014-07-18 ; Times: 2
+	Date: 2014-07-19 ; Times: 1
+	Date: 2014-07-20 ; Times: 1
+	Date: 2014-07-23 ; Times: 1
+	Date: 2014-07-25 ; Times: 3
+	Date: 2014-07-28 ; Times: 5
+	Date: 2014-07-29 ; Times: 1
+	Date: 2014-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "UTA Hypopachus" ; Times: 2
+	Query: "uta 57681" ; Times: 2
+	Query: "CHRYSES" ; Times: 1
+	Query: "lampropeltis triangulum annulata" ; Times: 1
+	Query: "Cemophora coccinea copei Texas" ; Times: 1
+	Query: "taricha torosa Santa Barbara County" ; Times: 1
+	Query: "rhinoclemmys pulcherrima Mexico" ; Times: 1
+	Query: "catalognumber:11225" ; Times: 1
+	Query: "varanus salvadorii" ; Times: 6
+	Query: "indiana fountain reptiles" ; Times: 1
+	Query: "kinixys homeana" ; Times: 2
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "podocnemis expansa bolivia" ; Times: 1
+	Query: "stateprovince:"Manabi" country:"Ecuador" class:Reptilia" ; Times: 2
+	Query: "Tiliqua multifasciata" ; Times: 2
+	Query: "20942" ; Times: 1
+	Query: "Varanus olivaceus" ; Times: 1
+	Query: "sanzinia" ; Times: 1
+	Query: "porthidium yucatanicum" ; Times: 2
+	Query: "Hyla andersoni stateprovince:"New Jersey"" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "Lampropeltis triangulum sinaloae" ; Times: 1
+	Query: "stateprovince:"Esmeraldas" country:"Ecuador" class:Reptilia" ; Times: 2
+	Query: "mykter" ; Times: 1
+	Query: "Abronia vasconcelosii" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:"New Jersey"" ; Times: 1
+	Query: "leiopython" ; Times: 2
+	Query: "Phyllodactylus insularis" ; Times: 5
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "Lepidophyma smithii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 437 download events in this period)
+Total number of records downloaded: 5760 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5278
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 9
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 2
+	Date: 2014-07-07 ; Times: 1
+	Date: 2014-07-09 ; Times: 2
+	Date: 2014-07-10 ; Times: 1
+	Date: 2014-07-11 ; Times: 1
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-15 ; Times: 9
+	Date: 2014-07-16 ; Times: 1
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-28 ; Times: 2
+	Date: 2014-07-29 ; Times: 3
+	Date: 2014-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"argentina"" ; Times: 1
+	Query: "country:"suriname"" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 2
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "Plethodon shenandoah" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Kalophrynus pleurostigma philippines" ; Times: 1
+	Query: "country:"uruguay"" ; Times: 1
+	Query: "anaxyrus cognatus" ; Times: 2
+	Query: "siren lacertina" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "Hyla andersoni stateprovince:"New Jersey"" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "Tupinambis" ; Times: 2
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 257
+Total number of records retrieved from searches: 2584
+Number of download events that retrieved data from the resource: 224
+Total number of records downloaded: 141093
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 257
+Total number of records retrieved from searches: 2584
+Number of download events that retrieved data from the resource: 301
+Total number of records downloaded: 168526
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
