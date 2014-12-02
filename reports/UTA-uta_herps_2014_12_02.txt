@@ -1,0 +1,126 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 1456
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Denmark ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 31
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 56
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-04 ; Times: 1
+	Date: 2014-11-05 ; Times: 2
+	Date: 2014-11-06 ; Times: 8
+	Date: 2014-11-07 ; Times: 4
+	Date: 2014-11-08 ; Times: 15
+	Date: 2014-11-09 ; Times: 7
+	Date: 2014-11-10 ; Times: 1
+	Date: 2014-11-11 ; Times: 1
+	Date: 2014-11-12 ; Times: 3
+	Date: 2014-11-13 ; Times: 4
+	Date: 2014-11-19 ; Times: 14
+	Date: 2014-11-20 ; Times: 1
+	Date: 2014-11-21 ; Times: 4
+	Date: 2014-11-22 ; Times: 1
+	Date: 2014-11-24 ; Times: 10
+	Date: 2014-11-25 ; Times: 8
+	Date: 2014-11-26 ; Times: 2
+	Date: 2014-11-27 ; Times: 2
+	Date: 2014-11-28 ; Times: 1
+	Date: 2014-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "duellmanohyla chamulae" ; Times: 1
+	Query: "anolis petersii" ; Times: 1
+	Query: "Regina grahamii" ; Times: 3
+	Query: "abronia matudai" ; Times: 2
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Atropoides" ; Times: 1
+	Query: "Aspidites" ; Times: 1
+	Query: "country:"Thailand" genus:Oligodon" ; Times: 1
+	Query: "lepidophyma tuxtlae" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 2
+	Query: "sibon fischeri" ; Times: 2
+	Query: "xenosaurus rackhami" ; Times: 1
+	Query: "stateprovince:"texas" genus:desmognathus" ; Times: 2
+	Query: "class:Reptilia catalognumber:1754" ; Times: 1
+	Query: "class:Reptilia catalognumber:1755" ; Times: 1
+	Query: "abronia lythrochila" ; Times: 2
+	Query: "phrynosoma asio" ; Times: 2
+	Query: "Tantilla bocourti" ; Times: 1
+	Query: "Tropidophis" ; Times: 1
+	Query: "stateprovince:"Nuevo Leon" genus:Chiropterotriton" ; Times: 1
+	Query: "Boa constrictor" ; Times: 3
+	Query: "plectrohyla ixil" ; Times: 1
+	Query: "kinosternon acutum" ; Times: 9
+	Query: "kinosternon acutum institutioncode:UTA" ; Times: 1
+	Query: "heloderma alvarezi" ; Times: 2
+	Query: "plectrohyla acanthodes" ; Times: 1
+	Query: "class:Reptilia catalognumber:1756" ; Times: 1
+	Query: "diadophis regalis" ; Times: 1
+	Query: "tropidodipsas fasciata" ; Times: 1
+	Query: "leptodeira frenata" ; Times: 1
+	Query: "Sceloporus subniger" ; Times: 1
+	Query: "Leiopython" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 12
+	Query: "trachemys venusta" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 3
+	Query: "class:Reptilia catalognumber:4127" ; Times: 1
+	Query: "Azemiops" ; Times: 1
+	Query: ""bothriechis bicolor"" ; Times: 5
+	Query: "county:"Edgefield" stateprovince:"South Carolina" country:"United States" class:Amphibia" ; Times: 1
+	Query: ""crotalus stejnegeri"" ; Times: 1
+	Query: "Pseudoeurycea belli" ; Times: 1
+	Query: "Epicrates" ; Times: 2
+	Query: "Liasis" ; Times: 1
+	Query: "duellmanohyla schmidtorum" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "Smilisca baudini" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "woodhousii county:"Madison"" ; Times: 1
+	Query: "gastrophryne elegans" ; Times: 1
+	Query: "norops petersii" ; Times: 1
+	Query: "class:reptilia catalognumber:11766" ; Times: 1
+	Query: "Xenosaurus rackhami" ; Times: 1
+	Query: "Adelphicos latifasciatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 538
+Total number of records retrieved from searches: 6933
+Number of download events that retrieved data from the resource: 292
+Total number of records downloaded: 172192
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 538
+Total number of records retrieved from searches: 6933
+Number of download events that retrieved data from the resource: 369
+Total number of records downloaded: 199625
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
