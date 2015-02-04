@@ -1,0 +1,296 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 227
+Number of records retrieved in searches: 3628
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 10
+	Country: Costa Rica ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 48
+	Country: Namibia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Sweden ; Times: 8
+	Country: United Kingdom ; Times: 7
+	Country: United States ; Times: 122
+	Country: Unknown ; Times: 11
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 12
+	Date: 2015-01-03 ; Times: 2
+	Date: 2015-01-05 ; Times: 4
+	Date: 2015-01-06 ; Times: 1
+	Date: 2015-01-07 ; Times: 13
+	Date: 2015-01-08 ; Times: 6
+	Date: 2015-01-09 ; Times: 11
+	Date: 2015-01-10 ; Times: 2
+	Date: 2015-01-11 ; Times: 8
+	Date: 2015-01-12 ; Times: 18
+	Date: 2015-01-13 ; Times: 14
+	Date: 2015-01-14 ; Times: 5
+	Date: 2015-01-15 ; Times: 15
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-17 ; Times: 22
+	Date: 2015-01-19 ; Times: 6
+	Date: 2015-01-20 ; Times: 8
+	Date: 2015-01-22 ; Times: 8
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-24 ; Times: 15
+	Date: 2015-01-25 ; Times: 15
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-27 ; Times: 4
+	Date: 2015-01-28 ; Times: 16
+	Date: 2015-01-29 ; Times: 12
+	Date: 2015-01-30 ; Times: 3
+	Date: 2015-01-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophryacus" ; Times: 1
+	Query: "Scincella gemmingeri oaxaca" ; Times: 1
+	Query: "Tripanurgos" ; Times: 1
+	Query: "corytophanes hernandesii" ; Times: 1
+	Query: "Rhinoderma darwinii" ; Times: 2
+	Query: "Candoia bibroni" ; Times: 2
+	Query: "Cerrophidion barbouri" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:lepidus genus:Crotalus" ; Times: 2
+	Query: "Liolaemus cyanogaster" ; Times: 1
+	Query: "Ophryacus melanurus" ; Times: 1
+	Query: "acrochorda" ; Times: 1
+	Query: "country:"philippines" specificepithet:flavomaculatus genus:Trimeresurus" ; Times: 1
+	Query: "lampropeltis jalisco" ; Times: 4
+	Query: "Hydrodynastes gigas" ; Times: 2
+	Query: "country:"Philippines" genus:Varanus" ; Times: 1
+	Query: "ambystoma jalisco" ; Times: 7
+	Query: "tantilla rubra" ; Times: 1
+	Query: "scaphiodontophis zeteki" ; Times: 1
+	Query: "Polemon gabonensis" ; Times: 1
+	Query: "Bothrops insularis" ; Times: 2
+	Query: "sceloporus horridus oaxaca" ; Times: 1
+	Query: "Mesaspis juarezi" ; Times: 1
+	Query: "Aru Islands (Reptilia)" ; Times: 1
+	Query: "Bothriechis schlegelii Mexico" ; Times: 1
+	Query: "notophthalmus meridionalis stateprovince:"texas"" ; Times: 1
+	Query: "mixe hylidae" ; Times: 3
+	Query: "lauraster" ; Times: 1
+	Query: "country:"Panama" genus:Incilius" ; Times: 1
+	Query: "sistrurus catenatus tergeminus" ; Times: 2
+	Query: "Tretanorhinus country:"Mexico"" ; Times: 1
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "abronia" ; Times: 5
+	Query: "Xenosaurus grandis Oaxaca" ; Times: 2
+	Query: "geoemyda spengleri AND (NOT japonica)" ; Times: 1
+	Query: "Typhlops tenuis" ; Times: 1
+	Query: "Vipera transcaucasiana" ; Times: 2
+	Query: "Elaphe bairdi" ; Times: 1
+	Query: "smilisca baudini stateprovince:"texas"" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "Heloderma suspectum stateprovince:"New Mexico" country:"United States"" ; Times: 1
+	Query: "leptodeira jalisco" ; Times: 1
+	Query: "minera (hylidae)" ; Times: 1
+	Query: "tropidodipsas oaxaca" ; Times: 3
+	Query: "xenosaurus oaxaca" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 3
+	Query: "psammobates" ; Times: 1
+	Query: "Thamnophis radix Nebraska type:specimen" ; Times: 1
+	Query: "Sceloporus jarrovii Sonora" ; Times: 5
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "bothriechis marchi" ; Times: 4
+	Query: "stateprovince:"oklahoma" specificepithet:miliarius genus:sistrurus" ; Times: 1
+	Query: "UTA R-46878" ; Times: 4
+	Query: "goniurosaurus" ; Times: 1
+	Query: "genus:Micrurus specificepithet:ephippifer country:Mexico" ; Times: 1
+	Query: "ecnomiohyla AND (NOT miotympanum)" ; Times: 1
+	Query: "crotalus atrox oaxaca" ; Times: 1
+	Query: "stateprovince:"chiapas" genus:tantilla" ; Times: 1
+	Query: "cylindrophis" ; Times: 1
+	Query: "Crotalus Adamanteus stateprovince:"Mississippi"" ; Times: 1
+	Query: "Bothriechis schlegelii (Mexico)" ; Times: 1
+	Query: "thamnophis validus" ; Times: 1
+	Query: "cemophora coccinea texas AND (NOT carolina)" ; Times: 1
+	Query: "Tribolonotus novaeguineae" ; Times: 1
+	Query: "Crotalus Adamanteus stateprovince:"Florida"" ; Times: 2
+	Query: "stateprovince:"Illinois" class:reptilia institutioncode:uta" ; Times: 2
+	Query: "anolis petersii" ; Times: 1
+	Query: "Bothrops fonsecai" ; Times: 6
+	Query: "micrurus nebularis" ; Times: 3
+	Query: "Eleutherodactylus berkenbuschii" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:scutulatus genus:Crotalus" ; Times: 3
+	Query: "Bolitoglossa cop" ; Times: 1
+	Query: "ABRONIA DEPPII" ; Times: 1
+	Query: "Sceloporus jarrovii sonora" ; Times: 2
+	Query: "Echis coloratus" ; Times: 1
+	Query: "geoemyda spengleri" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Paramesotriton deloustali" ; Times: 2
+	Query: "Candoia bibroni Fiji" ; Times: 1
+	Query: "tursicus" ; Times: 1
+	Query: "alvarezi" ; Times: 1
+	Query: "Eristicophis" ; Times: 1
+	Query: "salvadora oaxaca" ; Times: 1
+	Query: "trux" ; Times: 1
+	Query: "UTA R-52959" ; Times: 4
+	Query: "UTA R-52958" ; Times: 2
+	Query: "stateprovince:"Utah" specificepithet:mitchelli genus:Crotalus" ; Times: 1
+	Query: "serpentes Guyana" ; Times: 1
+	Query: "Crotalus durissus terrificus" ; Times: 2
+	Query: "Pituophis melanoleucus lodingi" ; Times: 1
+	Query: "tropidodipsas fischeri" ; Times: 2
+	Query: "Vipera lebetina" ; Times: 2
+	Query: "genus:Typhlops specificepithet:tenuis country:Mexico" ; Times: 1
+	Query: "mixe (Hylidae)" ; Times: 6
+	Query: "smilisca baudini" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" class:Reptilia" ; Times: 1
+	Query: "HEOSEMYS SPINOSA" ; Times: 1
+	Query: "Crotalus pusillus" ; Times: 2
+	Query: "Crotalus Horridus stateprovince:"Kansas"" ; Times: 1
+	Query: "Coleonyx reticulatus" ; Times: 10
+	Query: "smilisca baudinii stateprovince:"texas"" ; Times: 1
+	Query: "lampropeltis oaxaca" ; Times: 1
+	Query: "corytophanes hernandezii" ; Times: 1
+	Query: "Ceratophrys cranwelli" ; Times: 1
+	Query: "trachyboa" ; Times: 1
+	Query: "bufo tutelarius" ; Times: 1
+	Query: "ambystoma flavipiperatum" ; Times: 2
+	Query: "Vipera xanthina" ; Times: 1
+	Query: "Bolitoglossa dunni" ; Times: 2
+	Query: "crotalus jalisco" ; Times: 8
+	Query: "stateprovince:"washington" specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "Thamnophis virgatenuis" ; Times: 1
+	Query: "Pseudocerastes" ; Times: 1
+	Query: "hypopachus variolosus stateprovince:"texas"" ; Times: 1
+	Query: "chamulae" ; Times: 1
+	Query: "rana vaillanti" ; Times: 2
+	Query: "stateprovince:"Texas" specificepithet:cyanogenys genus:Sceloporus" ; Times: 1
+	Query: "Thamnophis errans" ; Times: 1
+	Query: "micrurus oaxaca" ; Times: 1
+	Query: "geoemyda spengleri NOT japan NOT japonica" ; Times: 1
+	Query: "apalone mutica texas" ; Times: 1
+	Query: "miliaria (hylidae)" ; Times: 4
+	Query: "ABRONIA DEPPI" ; Times: 1
+	Query: "coleonyx jalisco" ; Times: 2
+	Query: "osteolaemus" ; Times: 1
+	Query: "stateprovince:"Illinois" class:amphibia institutioncode:uta" ; Times: 1
+	Query: "umbrivaga type:specimen" ; Times: 1
+	Query: "stateprovince:"Nevada" specificepithet:woodhousii" ; Times: 1
+	Query: "BOLITOGLOSSA 2247" ; Times: 1
+	Query: "geoemyda spengleri AND (NOT japonica NOT Japan)" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 4
+	Query: "crotalus armstrongi" ; Times: 1
+	Query: "salvaje (hylidae)" ; Times: 1
+	Query: "rabborum (hylidae)" ; Times: 1
+	Query: "Barisia juarezi" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 445 download events in this period)
+Total number of records downloaded: 11364 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11122
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 30
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 2
+	Date: 2015-01-05 ; Times: 2
+	Date: 2015-01-06 ; Times: 2
+	Date: 2015-01-07 ; Times: 3
+	Date: 2015-01-08 ; Times: 2
+	Date: 2015-01-10 ; Times: 1
+	Date: 2015-01-11 ; Times: 1
+	Date: 2015-01-13 ; Times: 4
+	Date: 2015-01-14 ; Times: 1
+	Date: 2015-01-15 ; Times: 3
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 2
+	Date: 2015-01-22 ; Times: 2
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-24 ; Times: 4
+	Date: 2015-01-26 ; Times: 3
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 2
+	Date: 2015-01-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Anolis allisoni" ; Times: 1
+	Query: "adenomera andreae" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "stateprovince:"Guadalcanal" country:"Solomon Islands" class:Reptilia" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "bufo tutelarius" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Dendrophryniscus minutus" ; Times: 1
+	Query: "smilisca baudini stateprovince:"texas"" ; Times: 1
+	Query: "county:"Oconee" stateprovince:"South Carolina" class:amphibia" ; Times: 1
+	Query: "liolaemus" ; Times: 1
+	Query: "Leptodactylus podicipinus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:lepidus genus:Crotalus" ; Times: 1
+	Query: "county:"Pickens" stateprovince:"South Carolina" class:amphibia" ; Times: 1
+	Query: "woodhousii" ; Times: 1
+	Query: "morelia viridis" ; Times: 2
+	Query: "Thamnophis radix Nebraska type:specimen" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "masticophis flagellum" ; Times: 1
+	Query: "genus:Hydromantes" ; Times: 1
+	Query: "country:"Honduras" class:Reptilia" ; Times: 1
+	Query: "Onychodactylus japonicus" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "hemidactylus turcicus louisiana" ; Times: 1
+	Query: "Bufo bufo" ; Times: 1
+	Query: "nephila" ; Times: 1
+	Query: "tropidurus" ; Times: 1
+	Query: "Crotalus atrox type:specimen stateprovince:"New Mexico"" ; Times: 1
+	Query: "Cynops cyanurus" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "stateprovince:"kentucky" class:amphibia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 579
+Total number of records retrieved from searches: 7651
+Number of download events that retrieved data from the resource: 42
+Total number of records downloaded: 11364
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 806
+Total number of records retrieved from searches: 11279
+Number of download events that retrieved data from the resource: 497
+Total number of records downloaded: 217313
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
