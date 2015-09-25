@@ -1,0 +1,382 @@
+Report for Institution Code UTA, Resource UTA-R
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 279
+Number of records retrieved in searches: 2735
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Chile ; Times: 2
+	Country: France ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 92
+	Country: New Zealand ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 165
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 5
+	Date: 2015-08-02 ; Times: 2
+	Date: 2015-08-03 ; Times: 20
+	Date: 2015-08-04 ; Times: 11
+	Date: 2015-08-05 ; Times: 10
+	Date: 2015-08-06 ; Times: 4
+	Date: 2015-08-07 ; Times: 8
+	Date: 2015-08-08 ; Times: 2
+	Date: 2015-08-09 ; Times: 1
+	Date: 2015-08-10 ; Times: 5
+	Date: 2015-08-11 ; Times: 10
+	Date: 2015-08-12 ; Times: 8
+	Date: 2015-08-13 ; Times: 7
+	Date: 2015-08-14 ; Times: 3
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 14
+	Date: 2015-08-17 ; Times: 3
+	Date: 2015-08-18 ; Times: 12
+	Date: 2015-08-19 ; Times: 10
+	Date: 2015-08-20 ; Times: 3
+	Date: 2015-08-21 ; Times: 3
+	Date: 2015-08-22 ; Times: 18
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-24 ; Times: 15
+	Date: 2015-08-25 ; Times: 11
+	Date: 2015-08-26 ; Times: 18
+	Date: 2015-08-27 ; Times: 14
+	Date: 2015-08-28 ; Times: 22
+	Date: 2015-08-29 ; Times: 16
+	Date: 2015-08-30 ; Times: 3
+	Date: 2015-08-31 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"South Carolina" genus:Pituophis" ; Times: 1
+	Query: "UTA A-5016" ; Times: 2
+	Query: "blomhoffi" ; Times: 1
+	Query: "58227" ; Times: 1
+	Query: "UTA-a 52528" ; Times: 1
+	Query: "rana sierramadrensis" ; Times: 1
+	Query: "amastridium" ; Times: 1
+	Query: "thamnophis tetrataenia" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "48524" ; Times: 1
+	Query: "Lepidophyma pajapanensis" ; Times: 1
+	Query: "catalognumber:51586 institutioncode:UTA" ; Times: 1
+	Query: "Adelphicos nigrilatus" ; Times: 1
+	Query: "Anomalepididae" ; Times: 2
+	Query: "catalognumber:51556 institutioncode:UTA" ; Times: 1
+	Query: "Leptotyphlops goudotii" ; Times: 1
+	Query: "UTA R 17803" ; Times: 1
+	Query: "Osteolaemus tetraspis" ; Times: 1
+	Query: "ichthyophis glutinosus" ; Times: 4
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Eleutherodactylus omiltemanus" ; Times: 1
+	Query: "catalognumber:46632 institutioncode:UTA" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "genus:Kinixys institutioncode:UTA" ; Times: 2
+	Query: "genus:azemiops class:reptilia" ; Times: 2
+	Query: "micrurus browni" ; Times: 2
+	Query: "Thorius arboreus" ; Times: 1
+	Query: "Thamnophis equis" ; Times: 3
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 2
+	Query: "Cryophis hallbergi" ; Times: 2
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 4
+	Query: "pajapanensis" ; Times: 4
+	Query: "Pseudoeurycea saltator" ; Times: 1
+	Query: "stateprovince:"colorado" genus:liochlorophis" ; Times: 2
+	Query: "Abronia fuscolabialis" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "Micrurus tener" ; Times: 7
+	Query: "rhinoclemmys rubida" ; Times: 1
+	Query: "catalognumber:51546 institutioncode:UTA" ; Times: 1
+	Query: "UTA-A 53662" ; Times: 2
+	Query: "naultinus elegans" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:"New Jersey"" ; Times: 1
+	Query: "catalognumber:49060" ; Times: 1
+	Query: "stateprovince:"south carolina" specificepithet:miliarius genus:sistrurus" ; Times: 1
+	Query: "Python curtus" ; Times: 2
+	Query: "eryx conicus" ; Times: 2
+	Query: "catalognumber:39278 institutioncode:UTA" ; Times: 1
+	Query: "Atropoides" ; Times: 5
+	Query: "desmognathus marmoratus virginia" ; Times: 1
+	Query: "stateprovince:"Meta" country:"Colombia" class:Reptilia institutioncode:UTA" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lineatus genus:Lygophis" ; Times: 2
+	Query: "rhampholeon spectrum" ; Times: 2
+	Query: "willardi" ; Times: 2
+	Query: "Lampropeltis stateprovince:"Utah"" ; Times: 1
+	Query: "Coniophanes alvarezi" ; Times: 1
+	Query: "graptemys caglei" ; Times: 2
+	Query: "country:"Colombia" genus:Pseudoboa" ; Times: 1
+	Query: "liochlorophis stateprovince:"Colorado"" ; Times: 1
+	Query: "UTA 6621" ; Times: 2
+	Query: "Abronia chiszari" ; Times: 1
+	Query: "Eurycea county:"Travis" stateprovince:"Texas"" ; Times: 1
+	Query: "typhlops tenuis" ; Times: 1
+	Query: "crocodylus niloticus CM" ; Times: 1
+	Query: "Cryophis" ; Times: 1
+	Query: "46549" ; Times: 1
+	Query: "UTA A-52960" ; Times: 2
+	Query: "sceloporus pyrocephalus" ; Times: 2
+	Query: "echis carinatus" ; Times: 2
+	Query: "UTA A-25824" ; Times: 1
+	Query: "Abronia ochoterenai" ; Times: 4
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Lampropeltis zonata stateprovince:"California"" ; Times: 1
+	Query: "Thorius grandis" ; Times: 2
+	Query: "craugastor augusti" ; Times: 1
+	Query: "Geophis anocularis*" ; Times: 1
+	Query: "genus:Exiliboa" ; Times: 2
+	Query: "willardi stateprovince:"arizona"" ; Times: 1
+	Query: "catalognumber:51596 institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:distans genus:Micrurus" ; Times: 2
+	Query: "stateprovince:"Chiapas" specificepithet:godmani genus:Rhadinaea" ; Times: 1
+	Query: "catalognumber:51526 institutioncode:UTA" ; Times: 1
+	Query: "bufo county:"Colorado" stateprovince:"Texas"" ; Times: 1
+	Query: "Tomistoma" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 3
+	Query: "catalognumber:51566 institutioncode:UTA" ; Times: 1
+	Query: "dendropsophus ebraccatus" ; Times: 2
+	Query: "catalognumber:51525 institutioncode:UTA" ; Times: 1
+	Query: "helicops carinicaudus" ; Times: 1
+	Query: "specificepithet:motaguae genus:cnemidophorus" ; Times: 3
+	Query: "hypnale hypnale" ; Times: 2
+	Query: "PAJAPANENSIS" ; Times: 1
+	Query: "UTA 5966" ; Times: 2
+	Query: "country:"Bolivia" genus:Bothrops" ; Times: 1
+	Query: "stateprovince:"Sonora" specificepithet:kingii" ; Times: 1
+	Query: "27999" ; Times: 1
+	Query: "lepidophyma mayae" ; Times: 3
+	Query: "Abronia deppii*" ; Times: 1
+	Query: "Apostolepis" ; Times: 4
+	Query: "Hemidactylus stateprovince:"California"" ; Times: 3
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "uta anura" ; Times: 2
+	Query: "Sceloporus county:"Fresno" class:Reptilia" ; Times: 1
+	Query: "dendropsophus leucophyllatus" ; Times: 1
+	Query: "bolitoglossa yucatana" ; Times: 5
+	Query: "Desmognathus aeneus stateprovince:"Georgia"" ; Times: 1
+	Query: "Abronia deppii" ; Times: 1
+	Query: "Dendrobates leucomelas" ; Times: 1
+	Query: "stateprovince:"new mexico" genus:heloderma" ; Times: 1
+	Query: "eryx johni" ; Times: 1
+	Query: "UTA R 25837" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "Rhinoclemmys rubida" ; Times: 4
+	Query: "gerrhonotus liocephalus" ; Times: 2
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Amphibia" ; Times: 4
+	Query: "nevada institutioncode:UTA (amphibian reptile)" ; Times: 1
+	Query: "Eurycea county:"Williamson" stateprovince:"Texas"" ; Times: 1
+	Query: "Ambystoma tigrinum county:"Santa Barbara"" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 2
+	Query: "Eryx johnii" ; Times: 1
+	Query: "Crotalus pricei country:"Mexico"" ; Times: 2
+	Query: "Crotalus culminatus" ; Times: 1
+	Query: "Azemiops" ; Times: 1
+	Query: "porthidium yucatanicum" ; Times: 2
+	Query: "catalognumber:43286" ; Times: 1
+	Query: ""mesaspis juarezi"" ; Times: 6
+	Query: "Agkistrodon stateprovince:"New Jersey"" ; Times: 1
+	Query: "Pseudoeurycea aquatica" ; Times: 1
+	Query: "58508" ; Times: 1
+	Query: "catalognumber:51576 institutioncode:UTA" ; Times: 1
+	Query: "genus:Gonionotophis" ; Times: 1
+	Query: "catalognumber:52495" ; Times: 1
+	Query: "tantilla cuniculator" ; Times: 3
+	Query: "dendrotriton chujorum" ; Times: 1
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "UTA 4382" ; Times: 2
+	Query: "UTA 4380" ; Times: 4
+	Query: "56147" ; Times: 1
+	Query: "duellmanohyla schmidtorum" ; Times: 1
+	Query: "25393" ; Times: 1
+	Query: "craugastor occidentalis" ; Times: 1
+	Query: "UTA 6046" ; Times: 1
+	Query: "UTA A-47567" ; Times: 2
+	Query: "34677" ; Times: 1
+	Query: "Leptotyphlops maximus" ; Times: 1
+	Query: "tantilla schistosa" ; Times: 6
+	Query: "Eleutherodactylus augusti stateprovince:"Texas"" ; Times: 2
+	Query: "Pituophis zacatecas" ; Times: 1
+	Query: "varanus panoptes" ; Times: 1
+	Query: "Urotheca" ; Times: 1
+	Query: "Eleutherodactylus county:"Terrell" stateprovince:"Texas"" ; Times: 1
+	Query: "Gonionotophis" ; Times: 1
+	Query: "bothrops asper quintana roo" ; Times: 1
+	Query: "micrurus elegans" ; Times: 2
+	Query: "Geophis anocularis" ; Times: 2
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "UTA R 4903" ; Times: 1
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "UTA 4563" ; Times: 1
+	Query: "graptemys nigrinoda nigrinoda" ; Times: 1
+	Query: "46610" ; Times: 1
+	Query: "Pseudoeurycea werleri" ; Times: 1
+	Query: "osteolaemus" ; Times: 1
+	Query: "UTA A-47570" ; Times: 2
+	Query: "micrurus latifasciatus" ; Times: 1
+	Query: "UTA A-38144" ; Times: 2
+	Query: "UTA-A 10270" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis institutioncode:UTA" ; Times: 1
+	Query: "genus:phaeognathus" ; Times: 1
+	Query: "hylarana lepus" ; Times: 1
+	Query: "UTA A 10270" ; Times: 1
+	Query: "enulius flavitorques" ; Times: 1
+	Query: "necturus virginia" ; Times: 1
+	Query: "graptemys sabinensis" ; Times: 2
+	Query: "Chironius spixii" ; Times: 1
+	Query: "Adelphicos latifasciatus" ; Times: 3
+	Query: "UTA A-34125" ; Times: 2
+	Query: "Xenosaurus rackhami" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 1138 download events in this period)
+Total number of records downloaded: 21518 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12453
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Chile ; Times: 4
+	Country: Colombia ; Times: 6
+	Country: France ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 27
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 37
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 2
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-03 ; Times: 3
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 3
+	Date: 2015-08-06 ; Times: 2
+	Date: 2015-08-07 ; Times: 1
+	Date: 2015-08-09 ; Times: 2
+	Date: 2015-08-10 ; Times: 3
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-12 ; Times: 1
+	Date: 2015-08-13 ; Times: 5
+	Date: 2015-08-14 ; Times: 4
+	Date: 2015-08-16 ; Times: 8
+	Date: 2015-08-17 ; Times: 11
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 2
+	Date: 2015-08-20 ; Times: 4
+	Date: 2015-08-21 ; Times: 3
+	Date: 2015-08-22 ; Times: 2
+	Date: 2015-08-23 ; Times: 1
+	Date: 2015-08-25 ; Times: 5
+	Date: 2015-08-26 ; Times: 1
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 6
+	Date: 2015-08-30 ; Times: 3
+	Date: 2015-08-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "graptemys texas" ; Times: 1
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "Plethodon" ; Times: 1
+	Query: "type:specimen stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "Parvimolge townsendi" ; Times: 1
+	Query: "micrurus diastema" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Thorius arboreus" ; Times: 1
+	Query: "thamnophis tetrataenia" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "rana zweifeli" ; Times: 1
+	Query: "Leptodactylidae" ; Times: 1
+	Query: "rhampholeon spectrum" ; Times: 1
+	Query: "stateprovince:"south carolina" specificepithet:mabeei genus:ambystoma" ; Times: 1
+	Query: "tantilla schistosa" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "Mabuya" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "venezuela reptilia" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "nevada (amphibian reptile)" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "Thorius" ; Times: 1
+	Query: "colostethus palmatus" ; Times: 1
+	Query: "type:specimen country:"Mexico" genus:Crotalus" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "rana spectabilis" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "oplurus" ; Times: 1
+	Query: "typhlops tenuis" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: "Thorius aureus" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "micrurus browni" ; Times: 1
+	Query: "Mesaspis moreleti" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "bolitoglossa dunni" ; Times: 1
+	Query: "Pseudoeurycea werleri" ; Times: 1
+	Query: "Crotalus culminatus" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: "specificepithet:kentucki genus:plethodon" ; Times: 1
+	Query: "Crotalus durissus mexico" ; Times: 1
+	Query: "atelopus chiriquiensis" ; Times: 1
+	Query: "Dendrobatidae" ; Times: 1
+	Query: "genus:Plethodon" ; Times: 2
+	Query: "Pseudoeurycea juarezi" ; Times: 1
+	Query: "pajapanensis" ; Times: 2
+	Query: "puebla class:amphibia" ; Times: 2
+	Query: "anolis sagrei" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "atelopus zeteki" ; Times: 2
+	Query: ""mesaspis juarezi"" ; Times: 1
+	Query: "nevada class:reptilia" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Eugongylus" ; Times: 1
+	Query: "bolitoglossa conanti" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "squamata grand cayman" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "stateprovince:"Chiapas" specificepithet:godmani genus:Rhadinaea" ; Times: 1
+	Query: "Chironius spixii" ; Times: 1
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "cnemidophorus sexlineatus" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 279
+Total number of records retrieved from searches: 2735
+Number of download events that retrieved data from the resource: 86
+Total number of records downloaded: 21518
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 279
+Total number of records retrieved from searches: 2735
+Number of download events that retrieved data from the resource: 86
+Total number of records downloaded: 21518
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
