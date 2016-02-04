@@ -1,0 +1,230 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 139
+Number of records retrieved in searches: 1152
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 42
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Namibia ; Times: 1
+	Country: United States ; Times: 78
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 7
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-07 ; Times: 8
+	Date: 2016-01-26 ; Times: 7
+	Date: 2016-01-27 ; Times: 7
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-28 ; Times: 10
+	Date: 2016-01-29 ; Times: 15
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-09 ; Times: 3
+	Date: 2016-01-04 ; Times: 4
+	Date: 2016-01-05 ; Times: 4
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-21 ; Times: 3
+	Date: 2016-01-13 ; Times: 16
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-11 ; Times: 4
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-17 ; Times: 3
+	Date: 2016-01-16 ; Times: 3
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-31 ; Times: 10
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-03 ; Times: 3
+	Date: 2016-01-18 ; Times: 4
+	Date: 2016-01-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "nasicus oklahoma" ; Times: 3
+	Query: "Boa nicaragua" ; Times: 1
+	Query: "genus:Pseudoeurycea stateprovince:&#34;Queretaro&#34;" ; Times: 1
+	Query: "eryx colubrinus" ; Times: 12
+	Query: "Stenorrhina freminvillei" ; Times: 2
+	Query: "Hyla eximia stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "genus:Paramesotriton specificepithet:chinensis" ; Times: 1
+	Query: "Tantillita lintoni" ; Times: 1
+	Query: "Coniophanes schmidti" ; Times: 1
+	Query: "smilisca cyanosticta" ; Times: 3
+	Query: "Xantusia vigilis Nevada" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus country:&#34;Colombia&#34;" ; Times: 2
+	Query: "leucocephalon" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "Helminthophis frontalis" ; Times: 3
+	Query: "UTA 25113" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 2
+	Query: "gorzugi" ; Times: 4
+	Query: "Laemanctus Honduras" ; Times: 4
+	Query: "Plectrohyla acanthodes" ; Times: 1
+	Query: "coniophanes fissidens oaxaca" ; Times: 1
+	Query: "Plethodon kentucki" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "tropidodipsas oaxaca" ; Times: 1
+	Query: "Micrurus hippocrepis" ; Times: 1
+	Query: "hypsiglena oklahoma" ; Times: 1
+	Query: "specificepithet:mandarina family:colubridae" ; Times: 2
+	Query: "genus:Atelopus stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Oedipina elongata" ; Times: 1
+	Query: "class:Amphibia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vibicaria" ; Times: 1
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "Eryx colubrinus" ; Times: 1
+	Query: "genus:Atractus stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "rhadinaea fulvivittis oaxaca" ; Times: 2
+	Query: "leptodeira nigrofasciata" ; Times: 3
+	Query: "Coniophanes quinquevittatus" ; Times: 2
+	Query: "33490" ; Times: 1
+	Query: "tropidodipsas fasciata oaxaca" ; Times: 1
+	Query: "subniger genus:Sceloporus class:Reptilia" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 2
+	Query: "bothrochilus boa" ; Times: 3
+	Query: "Dipsas brevifacies" ; Times: 1
+	Query: "eurycea lucifuga illinois" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 2
+	Query: "Batrachoseps wrighti stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Tropidodipsas fasciata" ; Times: 1
+	Query: "Plethodon hoffmani county:&#34;Rockbridge&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "elaphe quatuorlineata" ; Times: 1
+	Query: "Eurycea Pterophila" ; Times: 2
+	Query: "imantodes gemmistratus oaxaca" ; Times: 1
+	Query: "2820 institutioncode:UTA" ; Times: 1
+	Query: "UTA R-7530 Micrurus" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "azemiops feae" ; Times: 1
+	Query: "vaillanti yucatan" ; Times: 1
+	Query: "Bolitoglossa platydactyla stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "Tantilla sertula" ; Times: 1
+	Query: "imantodes cenchoa oaxaca" ; Times: 1
+	Query: "UTA -29680" ; Times: 1
+	Query: "genus:Leptophis country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "specificepithet:melanogenys genus:Oxyrhopus country:&#34;Suriname&#34;" ; Times: 1
+	Query: "leioheterodon madagascariensis" ; Times: 1
+	Query: "Gastrophryne elegans stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:triaspis genus:elaphe" ; Times: 1
+	Query: "bothriopsis taeniata" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "Rana sierramadrensis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34; institutioncode:UTA" ; Times: 1
+	Query: "tropidodipsas fischeri oaxaca" ; Times: 1
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "type:specimen specificepithet:nevermanni genus:Crisantophis" ; Times: 1
+	Query: "bitis caudalis" ; Times: 1
+	Query: "HYPSIGLENA TANZERI" ; Times: 1
+	Query: "coleonyx reticulatus" ; Times: 2
+	Query: "class:amphibia county:&#34;Knox&#34; stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "Crotalus tzabcan" ; Times: 1
+	Query: "UTA A-57153" ; Times: 1
+	Query: "munoai" ; Times: 1
+	Query: "Ambystoma andersoni" ; Times: 2
+	Query: "class:Amphibia county:&#34;Laurens&#34; stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ctenosaura defensor" ; Times: 1
+	Query: "specificepithet:godmani genus:Rhadinaea stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:assatum genus:Sphenomorphus" ; Times: 1
+	Query: "Tantilla cuniculator" ; Times: 2
+	Query: "elaphe flavirufa" ; Times: 2
+	Query: "Eleutherodactylus leprus" ; Times: 1
+	Query: "Hyla bistincta" ; Times: 1
+	Query: "Ptychohyla acrochorda" ; Times: 1
+	Query: "Dendrophidion vinitor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 507 download events in this period)
+Total number of records downloaded: 64427
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-21 ; Times: 5
+	Date: 2016-01-26 ; Times: 1
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-19 ; Times: 5
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-12 ; Times: 4
+	Date: 2016-01-13 ; Times: 3
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "genus:Pseudoeurycea stateprovince:&#34;Queretaro&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "leioheterodon madagascariensis" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "coniophanes fissidens oaxaca" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "Crotalus viridis Nevada" ; Times: 1
+	Query: "order:CAudata country:&#34;United States&#34;" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 1
+	Query: "Puebla type:specimen class:amphibia" ; Times: 1
+	Query: "Erythrolamprus bizona" ; Times: 1
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "Rhinocheilus lecontei Nevada" ; Times: 1
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Puebla class:reptilia" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "Teius" ; Times: 1
+	Query: "aristelliger" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "Eleutherodactylus stuarti" ; Times: 1
+	Query: "lichanura" ; Times: 1
+	Query: "HYPSIGLENA TANZERI" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "Masticophis taeniatus Nevada" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "&#34;naja naja&#34;" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "Taricha stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
