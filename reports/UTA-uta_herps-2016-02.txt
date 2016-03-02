@@ -1,0 +1,261 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 1508
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 74
+	Country: Mexico ; Times: 39
+	Country: Unknown ; Times: 7
+	Country: United Kingdom ; Times: 8
+	Country: Sweden ; Times: 1
+	Country: Gabon ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 2
+	Country: Namibia ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 14
+	Date: 2016-02-08 ; Times: 6
+	Date: 2016-02-18 ; Times: 4
+	Date: 2016-02-19 ; Times: 5
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-13 ; Times: 8
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 10
+	Date: 2016-02-16 ; Times: 2
+	Date: 2016-02-17 ; Times: 6
+	Date: 2016-02-14 ; Times: 7
+	Date: 2016-02-15 ; Times: 12
+	Date: 2016-02-03 ; Times: 5
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-23 ; Times: 12
+	Date: 2016-02-22 ; Times: 4
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-26 ; Times: 6
+	Date: 2016-02-25 ; Times: 14
+	Date: 2016-02-24 ; Times: 2
+	Date: 2016-02-01 ; Times: 6
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 2
+	Date: 2016-02-07 ; Times: 6
+	Date: 2016-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tantilla schistosa" ; Times: 1
+	Query: "Dryocalamus" ; Times: 4
+	Query: "coniophanes bipunctatus mexico" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis institutioncode:UTA" ; Times: 1
+	Query: "nyctixalus" ; Times: 1
+	Query: "specificepithet:boans genus:Hyla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Ambystoma cingulatum (Florida)" ; Times: 1
+	Query: "class:Amphibia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "python timoriensis" ; Times: 1
+	Query: "gbifdatasetid:8d88898d-a2c4-4616-a1fe-431b9c06b671 dakota" ; Times: 1
+	Query: "cordylus namibia" ; Times: 1
+	Query: "nummifer oaxaca" ; Times: 1
+	Query: "crotalus tzabcan" ; Times: 1
+	Query: "genus:Pliocercus stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "Notophthalmus perstriatus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "genus:Dipsas stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "pyxidea" ; Times: 1
+	Query: "catalognumber:51471 institutioncode:UTA" ; Times: 1
+	Query: "bothrochilus" ; Times: 1
+	Query: "norops uniformis stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "bucharest" ; Times: 1
+	Query: "Thorius dubitus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "petropedetes palmipes" ; Times: 1
+	Query: "Thorius spilogaster stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "atheris hispida" ; Times: 1
+	Query: "gbifdatasetid:8d88898d-a2c4-4616-a1fe-431b9c06b671" ; Times: 2
+	Query: "CM 35891" ; Times: 2
+	Query: "crotalus horridus stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "specificepithet:flavirufa" ; Times: 1
+	Query: "Sphaerodactylus glaucus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "Lepidophyma tuxtlae" ; Times: 18
+	Query: "46719" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "dendroaspis polylepis" ; Times: 1
+	Query: "genus:Trachycephalus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "lepidophyma tuxtlae" ; Times: 1
+	Query: "rhadinaea godmani" ; Times: 2
+	Query: "genus:Tripanurgos country:&#34;Bolivia&#34;" ; Times: 2
+	Query: "Sonora semiannulata Nevada" ; Times: 1
+	Query: "leptophis ahaetulla oaxaca" ; Times: 1
+	Query: "crotalus willardi" ; Times: 2
+	Query: "(Osteolaemus OR Osteoblepharon)" ; Times: 3
+	Query: "Sceloporus aureolus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Notophthalmus perstriatus (Georgia)" ; Times: 1
+	Query: "genus:Oxyrhopus stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "bothrochilus boa" ; Times: 2
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Micrurus ephippifer stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "riama" ; Times: 2
+	Query: "specificepithet:fulvius genus:Micrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "anotheca spinosa oaxaca" ; Times: 1
+	Query: "lepidophyma mayae" ; Times: 1
+	Query: "CM 35890" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 1
+	Query: "vipera aspis" ; Times: 2
+	Query: "Coniophanes lateritius" ; Times: 1
+	Query: "Casarea dussumieri" ; Times: 1
+	Query: "Paramesotriton deloustali" ; Times: 2
+	Query: "ficimia streckeri" ; Times: 1
+	Query: "pituophis melanoleucus alabama" ; Times: 1
+	Query: "specificepithet:laticollaris genus:Micrurus" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "micrurus diastema oaxaca" ; Times: 1
+	Query: "Pituophis melanoleucus Nevada" ; Times: 1
+	Query: "Pituophis melanoleucus lodingi" ; Times: 1
+	Query: "UTA 29680" ; Times: 1
+	Query: "UTA 14514" ; Times: 1
+	Query: "Phyllomedusa lemur" ; Times: 1
+	Query: "genus:Siphlophis country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "conophis vittatus oaxaca" ; Times: 2
+	Query: "genus:Atractus stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "tantilla cuniculator" ; Times: 1
+	Query: "specificepithet:diastema genus:Micrurus stateprovince:&#34;Oaxaca&#34;" ; Times: 2
+	Query: "UTA 14697" ; Times: 1
+	Query: "specificepithet:multivirgatus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "gbifdatasetid:8d88898d-a2c4-4616-a1fe-431b9c06b671 South dakota" ; Times: 1
+	Query: "Adelphicos ibarrorum" ; Times: 2
+	Query: "chrysopelea institutioncode:UTA" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 2
+	Query: "UTA 46719" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:51471 collectioncode:uta uta-r institutioncode:UTA" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 9
+	Query: "Phyllorhynchus decurtatus Nevada" ; Times: 1
+	Query: "Notophthalmus viridescens tennessee" ; Times: 2
+	Query: "phrynosoma braconnieri" ; Times: 1
+	Query: "UTA 10630" ; Times: 1
+	Query: "specificepithet:jordani genus:Trachycephalus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "Ptychohyla zophodes" ; Times: 1
+	Query: "genus:Cemophora county:&#34;Santa Rosa&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "Barisia juarezi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 512 download events in this period)
+Total number of records downloaded: 18790
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 41
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 4
+	Date: 2016-02-19 ; Times: 6
+	Date: 2016-02-12 ; Times: 5
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 8
+	Date: 2016-02-16 ; Times: 1
+	Date: 2016-02-17 ; Times: 3
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-15 ; Times: 4
+	Date: 2016-02-02 ; Times: 4
+	Date: 2016-02-23 ; Times: 5
+	Date: 2016-02-22 ; Times: 5
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 4
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-07 ; Times: 2
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pituophis lineaticollis" ; Times: 1
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Salvadora hexalepis Nevada" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "plectrohyla matudai" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 2
+	Query: "Dicamptodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "hyla AND bistincta OR calthula OR pentheter" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Honduras&#34;" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "genus:Plethodon specificepithet:kentucki" ; Times: 1
+	Query: "sceloporus formosus" ; Times: 1
+	Query: "Chinemys reevesii" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "Crotalus cerastes Nevada" ; Times: 1
+	Query: "pseudoeurycea leprosa" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 3
+	Query: "Philodryas" ; Times: 1
+	Query: "bothrops asper" ; Times: 1
+	Query: "genus:Gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "rufipunctatus" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "Phyllorhynchus decurtatus Nevada" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "crotalus tzabcan" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "lepidophyma" ; Times: 1
+	Query: "Pituophis melanoleucus Nevada" ; Times: 2
+	Query: "genus:Apalone stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "serpentes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:reptilia country:Dominican Republic" ; Times: 1
+	Query: "Ptychohyla zophodes" ; Times: 1
+	Query: "class:reptilia country:Haiti" ; Times: 1
+	Query: "class:amphibia country:Dominican Republic" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 1
+	Query: "Cnemidophorus uniparens" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "class:amphibia country:Haiti" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Bolitoglossa rufescens" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 2
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Saltator" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+
+
+End of report.
