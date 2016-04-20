@@ -1,0 +1,116 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 699
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 7
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 10
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-03 ; Times: 9
+	Date: 2016-03-08 ; Times: 8
+	Date: 2016-03-09 ; Times: 5
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 7
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "tropidodipsas sartorii oaxaca" ; Times: 1
+	Query: "Ctenosaura similis Nicaragua" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "Heloderma horridum alvarezi" ; Times: 2
+	Query: "11054" ; Times: 1
+	Query: "Plectrohyla acanthodes" ; Times: 1
+	Query: "Plectrohyla quecchi" ; Times: 1
+	Query: "geophis carinosus" ; Times: 1
+	Query: "chersodromus liebmanni oaxaca" ; Times: 1
+	Query: "Ficimia publia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "plethodon glutinosis" ; Times: 1
+	Query: "Paramesotriton deloustali" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Plectrohyla matudai Chiapas" ; Times: 1
+	Query: "Gastrophryne elegans stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "crotalus transversus" ; Times: 1
+	Query: "gastrotheca cornuta panama" ; Times: 1
+	Query: "crotalus aquilus" ; Times: 3
+	Query: "Plectrohyla pokomchi" ; Times: 1
+	Query: "Paramesotriton caudopunctatus" ; Times: 4
+	Query: "Bothriechis supraciliaris" ; Times: 1
+	Query: "ambystoma tigrinum stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "Plectrohyla hartwegi" ; Times: 1
+	Query: "Geophis immaculatus" ; Times: 1
+	Query: "Lepidoblepharis miyatai" ; Times: 1
+	Query: "order:Anura class:Amphibia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Lampropeltis catalognumber:32194" ; Times: 1
+	Query: "Plectrohyla sagorum" ; Times: 1
+	Query: "Vaupes Amphibia" ; Times: 3
+	Query: "Hyla bistincta" ; Times: 1
+	Query: "Tzabcan" ; Times: 2
+	Query: "Engystomops pustulosus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Heloderma horridum charlesbogerti" ; Times: 1
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "eurycea latitans" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 230 download events in this period)
+Total number of records downloaded: 13502
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-09 ; Times: 4
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-04 ; Times: 3
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 1
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "Cnemidophorus exsanguis" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "Bolitoglossa yucatana" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "thamnophis type:specimen institutioncode:UTA" ; Times: 1
+	Query: "atractus trilineatus" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
