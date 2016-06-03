@@ -1,0 +1,208 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 853
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 46
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 6
+	Date: 2016-05-18 ; Times: 2
+	Date: 2016-05-15 ; Times: 5
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 8
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-31 ; Times: 9
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-09 ; Times: 6
+	Date: 2016-05-01 ; Times: 3
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 4
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-27 ; Times: 3
+	Date: 2016-05-24 ; Times: 4
+	Date: 2016-05-25 ; Times: 8
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 4
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "Agkistrodon piscivorous" ; Times: 2
+	Query: "sibleszi" ; Times: 2
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "genus:Oxyrhopus stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "phyllomedusa trinitatis" ; Times: 1
+	Query: "class:Amphibia county:&#34;Coryell&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "siren intermedia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "bothriechis bicolor" ; Times: 1
+	Query: "mesaspis juarezi" ; Times: 2
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "genus:lampropeltis institutioncode:UTA" ; Times: 1
+	Query: "genus:eleutherodactylus stateprovince:&#34;nuevo leon&#34;" ; Times: 1
+	Query: "lachesis costa rica" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "salvadora grahamiae new mexico" ; Times: 1
+	Query: "genus:Plethodon specificepithet:idahoensis" ; Times: 2
+	Query: "pelusios gabonensis" ; Times: 1
+	Query: "Urosaurus graciosus arizona" ; Times: 1
+	Query: "thamnophis sirtalis (nebraska)" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 4
+	Query: "Trionyx triunguis" ; Times: 3
+	Query: "crotalus caliginis" ; Times: 4
+	Query: "genus:Bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Eurycea junaluska stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Lepidophyma tuxtlae" ; Times: 3
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "genus:Smilisca specificepithet:cyanosticta" ; Times: 1
+	Query: "heloderma alvarezi" ; Times: 1
+	Query: "ailuronyx" ; Times: 3
+	Query: "genus:Rhinobothryum country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "contortrix pictigaster" ; Times: 1
+	Query: "tropidophiidae" ; Times: 2
+	Query: "genus:Micrurus county:&#34;Dallas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lampropeltis Zonata pulchra" ; Times: 1
+	Query: "class:Amphibia county:&#34;Lampasas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Ameiva ameiva county:&#34;Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "phyllomedusa boliviana" ; Times: 1
+	Query: "Bufo spiculatus" ; Times: 2
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "fuscolabialis" ; Times: 2
+	Query: "genus:Bombina specificepithet:maxima" ; Times: 1
+	Query: "bothriechis aurifer" ; Times: 1
+	Query: "abronia deppei" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34; AND (NOT KU NOT USNM)" ; Times: 1
+	Query: "(Amphibia or Reptilia)" ; Times: 1
+	Query: "Lampropeltis triangulum amaura" ; Times: 2
+	Query: "specificepithet:hoffmani genus:Plethodon county:&#34;Rockbridge&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 2
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "Phyllodactylus bordai" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "manouria emys emys" ; Times: 1
+	Query: "Anguis" ; Times: 1
+	Query: "Ungaliophis continentalis" ; Times: 2
+	Query: "order:Anura (6584)" ; Times: 2
+	Query: "phyllodactylus gerrhopygus" ; Times: 2
+	Query: "abronia deppii" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 73 (out of 327 download events in this period)
+Total number of records downloaded: 118754
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 42
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 7
+	Date: 2016-05-19 ; Times: 5
+	Date: 2016-05-18 ; Times: 2
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-11 ; Times: 2
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 3
+	Date: 2016-05-25 ; Times: 8
+	Date: 2016-05-31 ; Times: 22
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "kinosternon sonoriense" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "phrynosoma taurus" ; Times: 2
+	Query: "hyla plicata" ; Times: 4
+	Query: "Hyla chrysoscelis" ; Times: 2
+	Query: "heloderma horridum" ; Times: 4
+	Query: "phyllomedusa tarsius" ; Times: 1
+	Query: "mesaspis juarezi" ; Times: 1
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "eurycea pterophila" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "genus:Bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "phyllomedusa trinitatis" ; Times: 1
+	Query: "Caiman yacare" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "fowleri specificepithet:fowleri class:Amphibia" ; Times: 1
+	Query: "tribolonotus" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Sceloporus oberon" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Phrynosoma platyrhinos Idaho" ; Times: 2
+	Query: "Sceloporus bulleri" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "siren intermedia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "gbifdatasetid:8d88898d-a2c4-4616-a1fe-431b9c06b671" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
