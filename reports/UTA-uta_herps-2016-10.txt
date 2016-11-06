@@ -1,0 +1,41 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 8
+Number of records retrieved in searches: 929
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-05 ; Times: 2
+	Date: 2016-10-24 ; Times: 2
+	Date: 2016-10-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Stefania evansi " ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "Phyllomedusa vaillantii " ; Times: 1
+	Query: "Parvimolge townsendi" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
