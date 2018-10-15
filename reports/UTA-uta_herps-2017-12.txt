@@ -1,0 +1,296 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 236
+Number of records retrieved in searches: 3585
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 152
+	Country: Mexico ; Times: 53
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: French Guiana ; Times: 1
+	Country: Japan ; Times: 2
+	Country: China ; Times: 14
+	Country: Norway ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 6
+	Date: 2017-12-31 ; Times: 8
+	Date: 2017-12-16 ; Times: 3
+	Date: 2017-12-17 ; Times: 5
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-12 ; Times: 10
+	Date: 2017-12-13 ; Times: 12
+	Date: 2017-12-10 ; Times: 4
+	Date: 2017-12-11 ; Times: 17
+	Date: 2017-12-18 ; Times: 3
+	Date: 2017-12-19 ; Times: 9
+	Date: 2017-12-29 ; Times: 5
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-26 ; Times: 3
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-23 ; Times: 8
+	Date: 2017-12-22 ; Times: 7
+	Date: 2017-12-21 ; Times: 4
+	Date: 2017-12-20 ; Times: 6
+	Date: 2017-12-05 ; Times: 26
+	Date: 2017-12-04 ; Times: 13
+	Date: 2017-12-07 ; Times: 6
+	Date: 2017-12-06 ; Times: 49
+	Date: 2017-12-01 ; Times: 5
+	Date: 2017-12-03 ; Times: 5
+	Date: 2017-12-02 ; Times: 2
+	Date: 2017-12-09 ; Times: 3
+	Date: 2017-12-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophryacus" ; Times: 2
+	Query: "specificepithet:sputatrix genus:naja" ; Times: 1
+	Query: "Coniophanes Guerrero Mexico" ; Times: 1
+	Query: "Imantodes Guerrero Mexico" ; Times: 1
+	Query: "genus:Crotalus catalognumber:1025" ; Times: 2
+	Query: "Boulengerina" ; Times: 1
+	Query: "genus:Oxybelis class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:amphibia catalognumber:39249" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "tropidodipsas sartorii" ; Times: 1
+	Query: "&#34;Plethodon savannah&#34;" ; Times: 4
+	Query: "anolis forbesi" ; Times: 1
+	Query: "Cerrophidion barbouri" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "Aspidelaps scutatus" ; Times: 3
+	Query: "hyla pentheter" ; Times: 2
+	Query: "specificepithet:glaucus genus:Sphaerodactylus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Sistrurus Berkeley South carolina" ; Times: 1
+	Query: "genus:Crotalus catalognumber:28233" ; Times: 2
+	Query: "specificepithet:omniumsanctorum genus:Bolitoglossa" ; Times: 1
+	Query: "pseudotriton ruber stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "specificepithet:burti genus:Cnemidophorus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "thamnophis errans durango" ; Times: 1
+	Query: "country:&#34;NICARAGUA&#34; institutioncode:UTA" ; Times: 3
+	Query: "genus:SISTRURUS institutioncode:UTA" ; Times: 1
+	Query: "genus:Rhinobothryum" ; Times: 1
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "genus:Crotalus catalognumber:2909" ; Times: 2
+	Query: "genus:Crotalus catalognumber:5627" ; Times: 1
+	Query: "genus:Crotalus catalognumber:5626" ; Times: 4
+	Query: "Geophis Guerrero Mexico" ; Times: 2
+	Query: "Ambystoma mabeei South Carolina Berkeley" ; Times: 1
+	Query: "thamnophis errans" ; Times: 1
+	Query: "Oxybelis fulgidus Oaxaca" ; Times: 1
+	Query: "Walterinnesia aegyptia" ; Times: 3
+	Query: "Necturus Tennessee" ; Times: 10
+	Query: "Hidalgo lampropeltis Triangulum" ; Times: 1
+	Query: "Anolis forbesi" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "Sistrurus miliarius barbouri stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "Phaeognathus" ; Times: 1
+	Query: "Bolitoglossa yucatana" ; Times: 3
+	Query: "Micrurus psyches" ; Times: 2
+	Query: "Rhadinaea pilonaorum" ; Times: 1
+	Query: "Xenodon Mexico" ; Times: 1
+	Query: "Synapturanus" ; Times: 3
+	Query: "ambystoma annulatum oklahoma" ; Times: 5
+	Query: "Eurycea quadridigitata Liberty Texas" ; Times: 1
+	Query: "Nerodia paucimaculata" ; Times: 1
+	Query: "genus:Crotalus catalognumber:5630" ; Times: 1
+	Query: "genus:Lithobates county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:22348" ; Times: 2
+	Query: "Leptophis Guerrero Mexico" ; Times: 1
+	Query: "Dendroaspis angusticeps" ; Times: 1
+	Query: "genus:Nyctanolis specificepithet:pernix" ; Times: 1
+	Query: "genus:Crotalus institutioncode:UTA" ; Times: 6
+	Query: "Lampropeltis getula stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Synapturanus mirandaribeiroi" ; Times: 3
+	Query: "pseudotriton ruber stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:sphaerodactylus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Conophis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:39030" ; Times: 2
+	Query: "Ambystoma annulatum washington arkansas" ; Times: 1
+	Query: "Basiliscus Guerrero Mexico" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "bothriechis aurifer" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34570" ; Times: 2
+	Query: "genus:Dermophis class:Amphibia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:mentovarius genus:masticophis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:22357" ; Times: 2
+	Query: "Bothriechis bicolor" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34; AND (NOT MCZ) institutioncode:UTA" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "neusticurus rudis" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Melanochelys trijuga" ; Times: 1
+	Query: "Geoclemys hamiltoni" ; Times: 1
+	Query: "genus:Crotalus catalognumber:30719" ; Times: 2
+	Query: "Leptomicrurus narduccii" ; Times: 1
+	Query: "Eurycea Madison Arkansas" ; Times: 1
+	Query: "specificepithet:glaucus genus:sphaerodactylus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Coniophanes fissidens Oaxaca" ; Times: 1
+	Query: "catalognumber:3536 institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:virgatus genus:Sceloporus stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "Coniophanes lateritius" ; Times: 2
+	Query: "genus:Crotalus catalognumber:34569" ; Times: 2
+	Query: "genus:Salvadora class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Trimetopon pliolepis" ; Times: 3
+	Query: "Pulchrilatus" ; Times: 1
+	Query: "Naja kaouthia" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Sonora class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "genus:Crotalus catalognumber:25855" ; Times: 2
+	Query: "genus:Crotalus catalognumber:25854" ; Times: 2
+	Query: "genus:Crotalus catalognumber:25857" ; Times: 2
+	Query: "genus:Crotalus catalognumber:25856" ; Times: 2
+	Query: "genus:Crotalus catalognumber:28270" ; Times: 3
+	Query: "kinosternon sonoriense new mexico" ; Times: 1
+	Query: "Ambystoma annulatum Arkansas" ; Times: 1
+	Query: "DRYMARCHON couperi" ; Times: 1
+	Query: "Rhadinaea posadasi" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "leiopython" ; Times: 1
+	Query: "genus:Necturus family:Proteidae stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:ambystoma county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Trimorphodon class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Drymobius class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Hynobius specificepithet:nigrescens" ; Times: 2
+	Query: "genus:Micrurus stateprovince:&#34;Quintana Roo&#34;" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "Sistrurus South carolina" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34; AND (NOT MCZ)" ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 4
+	Query: "ungaliophis" ; Times: 1
+	Query: "Willardi obscurus" ; Times: 3
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "Coniophanes piceivittis" ; Times: 2
+	Query: "craugastor occidentalis" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:nussbaumi" ; Times: 1
+	Query: "genus:ficimia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:39088" ; Times: 2
+	Query: "Boulengerina annulata annulata" ; Times: 1
+	Query: "Dendroaspis polylepis" ; Times: 2
+	Query: "specificepithet:catesbeianus county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:transversus genus:Crotalus" ; Times: 2
+	Query: "genus:Xenodon class:Reptilia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:leucostomum genus:kinosternon stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Pulchrilatus michoacan" ; Times: 2
+	Query: "Tantilla atriceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dermophis Guerrero Mexico" ; Times: 2
+	Query: "specificepithet:trijuga genus:Melanochelys" ; Times: 1
+	Query: "genus:Crotalus catalognumber:7286" ; Times: 2
+	Query: "genus:Rhadinaea class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 2
+	Query: "Bothriechis rowleyi" ; Times: 2
+	Query: "Hypsiglena tanzeri" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "SONORA Guerrero Mexico" ; Times: 1
+	Query: "Eurycea quadridigitata Montgomery Texas" ; Times: 1
+	Query: "genus:Tantilla institutioncode:UTA" ; Times: 3
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "Eleutherodactylus leprus" ; Times: 1
+	Query: "Rana taylori" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 674 download events in this period)
+Total number of records downloaded: 3179
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 22
+	Country: Mexico ; Times: 26
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-24 ; Times: 3
+	Date: 2017-12-23 ; Times: 1
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-04 ; Times: 7
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-06 ; Times: 4
+	Date: 2017-12-01 ; Times: 3
+	Date: 2017-12-13 ; Times: 6
+	Date: 2017-12-03 ; Times: 9
+	Date: 2017-12-12 ; Times: 7
+	Date: 2017-12-08 ; Times: 7
+	Date: 2017-12-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "amphibia Campeche" ; Times: 1
+	Query: "anolis capito" ; Times: 1
+	Query: "Anolis forbesi" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "craugastor augusti" ; Times: 1
+	Query: "leiopython" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "hyla bistincta" ; Times: 1
+	Query: "eumeces inexpectatus" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Boulengerina" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 1
+	Query: "Anolis crassulus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "reptilia quintana roo" ; Times: 1
+	Query: "serpentes colombia" ; Times: 1
+	Query: "anolis forbesi" ; Times: 1
+	Query: "Reptilia Campeche" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "phrynosoma mcallii" ; Times: 1
+	Query: "anolis crassulus" ; Times: 1
+	Query: "eleutherodactylus nitidus" ; Times: 1
+	Query: "hyla smithi" ; Times: 1
+	Query: "eleutherodactylus pipilans" ; Times: 1
+	Query: "anolis allisoni" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 2
+	Query: "Anolis uniformis" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "eumeces laticeps" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "hyla smaragdina" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "nicaragua vntype:specimen (amphibian and reptile)" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "amphibia quintana roo" ; Times: 1
+	Query: "vntype:specimen specificepithet:cognatus genus:Anaxyrus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 2
+	Query: "cnemidophorus" ; Times: 1
+	Query: "craugastor occidentalis" ; Times: 1
+	Query: "anolis sericeus" ; Times: 1
+
+
+End of report.
