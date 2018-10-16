@@ -1,0 +1,659 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1229
+Number of records retrieved in searches: 19195
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 15
+	Country: Cuba ; Times: 2
+	Country: Unknown ; Times: 11
+	Country: Mexico ; Times: 63
+	Country: India ; Times: 2
+	Country: United States ; Times: 1102
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Belgium ; Times: 13
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 55
+	Date: 2018-03-29 ; Times: 71
+	Date: 2018-03-17 ; Times: 1
+	Date: 2018-03-16 ; Times: 9
+	Date: 2018-03-15 ; Times: 9
+	Date: 2018-03-14 ; Times: 7
+	Date: 2018-03-13 ; Times: 24
+	Date: 2018-03-12 ; Times: 12
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-10 ; Times: 6
+	Date: 2018-03-31 ; Times: 9
+	Date: 2018-03-30 ; Times: 7
+	Date: 2018-03-19 ; Times: 21
+	Date: 2018-03-01 ; Times: 11
+	Date: 2018-03-02 ; Times: 48
+	Date: 2018-03-03 ; Times: 43
+	Date: 2018-03-04 ; Times: 11
+	Date: 2018-03-05 ; Times: 46
+	Date: 2018-03-28 ; Times: 178
+	Date: 2018-03-07 ; Times: 8
+	Date: 2018-03-08 ; Times: 8
+	Date: 2018-03-09 ; Times: 25
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-22 ; Times: 18
+	Date: 2018-03-23 ; Times: 77
+	Date: 2018-03-20 ; Times: 53
+	Date: 2018-03-21 ; Times: 145
+	Date: 2018-03-27 ; Times: 112
+	Date: 2018-03-26 ; Times: 212
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:clelia genus:Clelia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Abronia specificepithet:graminea" ; Times: 6
+	Query: "genus:Cuora specificepithet:flavomarginata" ; Times: 5
+	Query: "Rana juliani" ; Times: 1
+	Query: "genus:Litoria specificepithet:aurea" ; Times: 2
+	Query: "cupreus country:&#34;Nicaragua&#34;" ; Times: 4
+	Query: "specificepithet:debilis institutioncode:UTA" ; Times: 4
+	Query: "genus:Anotheca specificepithet:spinosa" ; Times: 5
+	Query: "specificepithet:guianensis genus:Phimophis institutioncode:UTA" ; Times: 1
+	Query: "genus:Dendroaspis specificepithet:angusticeps" ; Times: 5
+	Query: "specificepithet:savagei genus:eleutherodactylus" ; Times: 1
+	Query: "genus:Salvadora specificepithet:lemniscata" ; Times: 5
+	Query: "genus:Xenodon specificepithet:severus" ; Times: 5
+	Query: "genus:Conopsis specificepithet:biserialis" ; Times: 5
+	Query: "family:Viperidae county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Eunectes stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Osteocephalus cabrerai" ; Times: 2
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 6
+	Query: "order:Anura stateprovince:&#34;Santa Ana&#34; country:&#34;El Salvador&#34;" ; Times: 2
+	Query: "52261" ; Times: 1
+	Query: "genus:Tantilla specificepithet:bocourti" ; Times: 5
+	Query: "genus:Herpele specificepithet:squalostoma" ; Times: 5
+	Query: "genus:Erpeton specificepithet:tentaculatum" ; Times: 5
+	Query: "genus:Limnomedusa specificepithet:macroglossa" ; Times: 6
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Tantilla specificepithet:coronata" ; Times: 2
+	Query: "sceloporus subniger" ; Times: 1
+	Query: "genus:Tantilla specificepithet:hobartsmithi" ; Times: 2
+	Query: "16171" ; Times: 1
+	Query: "specificepithet:poecilogyrus genus:Liophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Cyclura specificepithet:cornuta" ; Times: 5
+	Query: "Homonota uruguayensis" ; Times: 2
+	Query: "genus:Elachistocleis specificepithet:bicolor" ; Times: 5
+	Query: "genus:Tantilla specificepithet:schistosa" ; Times: 5
+	Query: "genus:Drymoluber specificepithet:dichrous" ; Times: 5
+	Query: "genus:Eunectes specificepithet:murinus" ; Times: 5
+	Query: "genus:Corucia specificepithet:zebrata" ; Times: 5
+	Query: "genus:Tantilla specificepithet:moesta" ; Times: 5
+	Query: "Anolis bombiceps" ; Times: 1
+	Query: "genus:Corallus specificepithet:caninus" ; Times: 5
+	Query: "genus:Gyalopion specificepithet:canum" ; Times: 5
+	Query: "specificepithet:univittatus genus:Atractus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Elaphe specificepithet:triaspis" ; Times: 5
+	Query: "genus:Tantilla stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Elaphe specificepithet:vulpina" ; Times: 2
+	Query: "specificepithet:guianensis genus:Phimophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 2
+	Query: "genus:Cnemaspis specificepithet:spinicollis" ; Times: 4
+	Query: "specificepithet:areolata genus:Rana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:cobella genus:Liophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Choco&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Leptophis specificepithet:ahaetulla" ; Times: 2
+	Query: "Crotalus armstrongi" ; Times: 2
+	Query: "genus:Atelopus specificepithet:zeteki" ; Times: 2
+	Query: "plethodon metcalfi institutioncode:UTA" ; Times: 1
+	Query: "Micrurus nebularis" ; Times: 1
+	Query: "genus:Nectophryne specificepithet:batesii" ; Times: 6
+	Query: "genus:Incilius specificepithet:campbelli" ; Times: 6
+	Query: "specificepithet:Lepidus genus:Crotalus stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "genus:Chironius specificepithet:fuscus" ; Times: 5
+	Query: "hemidactylus frenatus sinaloa" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana county:&#34;Colorado&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:jobiensis genus:Varanus" ; Times: 1
+	Query: "genus:Teius specificepithet:teyou" ; Times: 5
+	Query: "genus:Drymarchon stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:corais genus:Drymarchon stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Miranda&#34; country:&#34;Venezuela&#34; AND (NOT TCWC)" ; Times: 1
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 5
+	Query: "specificepithet:pullatus genus:Spilotes stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "porthidium tzotzilorum" ; Times: 2
+	Query: "eurycea rathbuni institutioncode:UTA" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:Basiliscus stateprovince:&#34;Michoacan&#34;" ; Times: 1
+	Query: "Crotalus totonacus" ; Times: 1
+	Query: "noblella vntype:specimen" ; Times: 2
+	Query: "specificepithet=testudo " ; Times: 1
+	Query: "genus:Tomistoma specificepithet:schlegelii" ; Times: 5
+	Query: "genus:Philodryas specificepithet:olfersii" ; Times: 6
+	Query: "specificepithet:minuisquamus genus:Typhlops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Micrurus pachecogili" ; Times: 1
+	Query: "Abronia smithi" ; Times: 3
+	Query: "genus:Leptophis specificepithet:depressirostris" ; Times: 5
+	Query: "genus:Varanus specificepithet:rudicollis" ; Times: 5
+	Query: "genus:Mesaspis specificepithet:moreletii" ; Times: 2
+	Query: "genus:Aparallactus specificepithet:modestus" ; Times: 6
+	Query: "genus:Pseustes specificepithet:poecilonotus" ; Times: 6
+	Query: "vntype:specimen specificepithet:frontalis genus:Helminthophis" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:orophilus" ; Times: 5
+	Query: "specificepithet:molossus genus:Crotalus stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "bolitoglossa stuarti vntype:specimen" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:(texas)" ; Times: 1
+	Query: "genus:Hyla specificepithet:boans" ; Times: 3
+	Query: "genus:Pelomedusa specificepithet:subrufa" ; Times: 2
+	Query: "specificepithet:annulata genus:Leptodeira stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:venezuelas genus:Hydrops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Uroplatus specificepithet:phantasticus" ; Times: 5
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "genus:Leptodeira specificepithet:splendida" ; Times: 3
+	Query: "genus:Sooglossus specificepithet:thomasseti" ; Times: 5
+	Query: "coniophanes quinquevittatus" ; Times: 1
+	Query: "specificepithet:aquilus genus:Crotalus" ; Times: 1
+	Query: "genus:Spilotes stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:fleischmanni country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:boddaerti genus:Dryadophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:horridum genus:Heloderma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Incilius specificepithet:canaliferus" ; Times: 6
+	Query: "genus:Leptophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Pseudoeryx stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "genus:Uropeltis specificepithet:melanogaster" ; Times: 5
+	Query: "specificepithet:lacerata genus:holbrookia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Drymobius specificepithet:chloroticus" ; Times: 5
+	Query: "specificepithet:cervinus genus:Siphlophis" ; Times: 1
+	Query: "specificepithet:isozonus genus:Micrurus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:chamaeleolis" ; Times: 2
+	Query: "specificepithet:areolata genus:Rana county:&#34;Jasper&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Gerrhosaurus specificepithet:major" ; Times: 5
+	Query: "genus:Centrolene specificepithet:buckleyi" ; Times: 5
+	Query: "peltophryne lemur" ; Times: 2
+	Query: "PSEUDOEURYCEA JUAREZI" ; Times: 2
+	Query: "genus:Masticophis specificepithet:bilineatus" ; Times: 2
+	Query: "specificepithet:constrictor genus:Boa stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Dendroaspis specificepithet:jamesoni" ; Times: 5
+	Query: "catalognumber:42382" ; Times: 2
+	Query: "genus:Xenodon stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Crotalus viridis helleri" ; Times: 1
+	Query: "agkistrodon bilineatus taylori" ; Times: 1
+	Query: "specificepithet:margaritiferus genus:Drymobius country:&#34;Panama&#34;" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:none genus:Dipsas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Plectrohyla specificepithet:guatemalensis" ; Times: 5
+	Query: "sceloporus brownorum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; AND (NOT TCWC)" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 2
+	Query: "genus:Waglerophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Rhaebo specificepithet:blombergi" ; Times: 6
+	Query: "21570" ; Times: 1
+	Query: "genus:Ptenopus specificepithet:garrulus" ; Times: 2
+	Query: "genus:Varanus specificepithet:prasinus" ; Times: 5
+	Query: "specificepithet:lemniscatus genus:Micrurus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Incilius specificepithet:ibarrai" ; Times: 6
+	Query: "specificepithet:mexicana genus:Bolitoglossa country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 5
+	Query: "bolitoglossa odonnelli institutioncode:UTA" ; Times: 1
+	Query: "genus:Micrurus specificepithet:tener" ; Times: 2
+	Query: "Porthidium hespere" ; Times: 1
+	Query: "genus:Chondrodactylus specificepithet:angulifer" ; Times: 2
+	Query: "specificepithet:mitchelli genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:hortulanus genus:Corallus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:cervinus genus:Siphlophis institutioncode:UTA" ; Times: 1
+	Query: "leptodeira splendida sinaloa" ; Times: 1
+	Query: "gbifdatasetid:8d88898d-a2c4-4616-a1fe-431b9c06b671" ; Times: 1
+	Query: "genus:Helicops specificepithet:leopardinus" ; Times: 5
+	Query: "genus:Ficimia specificepithet:streckeri" ; Times: 5
+	Query: "genus:Liotyphlops country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Scolecophis specificepithet:atrocinctus" ; Times: 5
+	Query: "genus:Acrantophis specificepithet:dumerili" ; Times: 5
+	Query: "genus:Chironius specificepithet:carinatus" ; Times: 2
+	Query: "specificepithet:cenchria genus:Epicrates stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Atractus specificepithet:elaps" ; Times: 5
+	Query: "genus:Lachesis specificepithet:stenophrys" ; Times: 5
+	Query: "specificepithet:pricei genus:Crotalus stateprovince:&#34;nuevo leon&#34;" ; Times: 1
+	Query: "specificepithet:thamnodynastes genus:Thamnodynastes stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Pseudoboa stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "crotalus totonacus" ; Times: 1
+	Query: "Coniophanes alvarezi" ; Times: 4
+	Query: "specificepithet:petola genus:Oxyrhopus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Caudiverbera specificepithet:caudiverbera" ; Times: 7
+	Query: "genus:Pseudoficimia specificepithet:frontalis" ; Times: 5
+	Query: "specificepithet:boddaerti genus:Mastigodryas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Coniophanes specificepithet:imperialis" ; Times: 2
+	Query: "coniophanes dromiciformis" ; Times: 1
+	Query: "cnemaspis spinicollis" ; Times: 1
+	Query: "specificepithet:boddaerti genus:Mastigodryas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Triprion specificepithet:petasatus" ; Times: 2
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "genus:Thoropa specificepithet:miliaris" ; Times: 2
+	Query: "crotalus morulus" ; Times: 1
+	Query: "neusticurus rudis" ; Times: 5
+	Query: "specificepithet:aesculapii genus:Erythrolamprus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "Abronia lythrochila" ; Times: 10
+	Query: "genus:sistrurus stateprovince:&#34;north Carolina&#34;" ; Times: 1
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "genus:Stenorrhina specificepithet:degenhardtii" ; Times: 5
+	Query: "vntype:specimen specificepithet:albirostris genus:Liotyphlops" ; Times: 1
+	Query: "genus:Ficimia specificepithet:publia" ; Times: 5
+	Query: "specificepithet:viridissimus genus:Philodryas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Azemiops specificepithet:feae" ; Times: 5
+	Query: "class:Amphibia or Reptilia order:Anura" ; Times: 4
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "Lampropeltis thayeri" ; Times: 1
+	Query: "Lamprophis aurora" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:notatus" ; Times: 2
+	Query: "specificepithet:mastigodryas genus:Mastigodryas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Paleosuchus" ; Times: 2
+	Query: "genus:Odontophrynus specificepithet:americanus" ; Times: 2
+	Query: "genus:Shinisaurus specificepithet:crocodilurus" ; Times: 5
+	Query: "genus:Tantilla specificepithet:wilcoxi" ; Times: 5
+	Query: "genus:Crotalus country:&#34;Bolivia&#34;" ; Times: 3
+	Query: "specificepithet:angulatus genus:Helicops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:atractus genus:Atractus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lygophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mabuya stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:Sistrurus family:Viperidae county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:minuisquamus genus:Typhlops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:olfersii genus:Philodryas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Tupinambis specificepithet:rufescens" ; Times: 5
+	Query: "genus:Aubria catalognumber:44475 collectioncode:UTA-A" ; Times: 1
+	Query: "genus:Crotalus specificepithet:durissus" ; Times: 2
+	Query: "genus:Pseudis specificepithet:paradoxa" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Aubria catalognumber:44475" ; Times: 1
+	Query: "genus:Microlophus specificepithet:peruvianus" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Puebla&#34;" ; Times: 4
+	Query: "specificepithet:intermedius genus:crotalus" ; Times: 1
+	Query: "genus:Japalura specificepithet:polygonata" ; Times: 2
+	Query: "teius oculatus" ; Times: 1
+	Query: "cerastes utah" ; Times: 1
+	Query: "lepidobatrachus asper" ; Times: 2
+	Query: "plethodon mississippi institutioncode:UTA" ; Times: 1
+	Query: "genus:Trachyboa specificepithet:gularis" ; Times: 5
+	Query: "specificepithet:Mexicana genus:Lampropeltis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Paleosuchus specificepithet:trigonatus" ; Times: 5
+	Query: "Crotalus triseriatus armstrongi" ; Times: 1
+	Query: "Bothrops jonathani" ; Times: 1
+	Query: "specificepithet:pricei genus:Crotalus stateprovince:&#34;Nuevo Leon&#34;" ; Times: 1
+	Query: "genus:Centrolene specificepithet:prosoblepon" ; Times: 2
+	Query: "specificepithet:bizona genus:Erythrolamprus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "47432`" ; Times: 1
+	Query: "genus:Crossodactylus specificepithet:gaudichaudii" ; Times: 6
+	Query: "specificepithet:carinatus genus:Chironius stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Melanochelys specificepithet:trijuga" ; Times: 5
+	Query: "genus:Didynamipus specificepithet:sjostedti" ; Times: 5
+	Query: "genus:Cuora specificepithet:amboinensis" ; Times: 2
+	Query: "genus:Sacalia specificepithet:quadriocellata" ; Times: 6
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Phrynops specificepithet:geoffroanus" ; Times: 6
+	Query: "cerastes uta" ; Times: 1
+	Query: "genus:Atelopus specificepithet:chiriquiensis" ; Times: 2
+	Query: "specificepithet:albirostris genus:Leptotyphlops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "Hyla chaneque" ; Times: 1
+	Query: "coniophanes schmidti" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 2
+	Query: "Lepidobatrachus asper" ; Times: 4
+	Query: "specificepithet:atractus genus:Atractus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Rhinobothryum specificepithet:bovallii" ; Times: 5
+	Query: "genus:Oligodon specificepithet:cyclurus" ; Times: 5
+	Query: "specificepithet:plicatilis genus:Pseudoeryx stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Oxybelis institutioncode:UTA" ; Times: 5
+	Query: "genus:Siphlophis specificepithet:cervinus" ; Times: 4
+	Query: "genus:Nectophryne specificepithet:afra" ; Times: 5
+	Query: "chamaeleolis" ; Times: 1
+	Query: "genus:Leptophis specificepithet:mexicanus" ; Times: 2
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 5
+	Query: "Vipera russelli" ; Times: 2
+	Query: "genus:Hemitheconyx specificepithet:caudicinctus" ; Times: 5
+	Query: "genus:Sphenodon specificepithet:punctatus" ; Times: 5
+	Query: "specificepithet:merremi genus:Waglerophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "scientificname:Osteocephalus planiceps " ; Times: 2
+	Query: "genus:Thamnophis county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Bothrops specificepithet:moojeni" ; Times: 5
+	Query: "specificepithet:melanolomus genus:Dryadophis country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:fuscus genus:Chironius stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Xenodon specificepithet:rabdocephalus" ; Times: 2
+	Query: "genus:Acrochordus specificepithet:javanicus" ; Times: 5
+	Query: "eurycea cirrigera institutioncode:UTA" ; Times: 1
+	Query: "genus:Philodryas specificepithet:viridissimus" ; Times: 6
+	Query: "genus:Oxyrhopus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "Hyla trux" ; Times: 1
+	Query: "andrias china" ; Times: 6
+	Query: "Liolaemus occipitalis" ; Times: 1
+	Query: "genus:Lyriocephalus specificepithet:scutatus" ; Times: 5
+	Query: "specificepithet:areolata genus:Rana county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 2
+	Query: "specificepithet:frater genus:eleutherodactylus" ; Times: 2
+	Query: "specificepithet:microscaphus institutioncode:UTA" ; Times: 3
+	Query: "genus:Dipsas specificepithet:catesbyi" ; Times: 2
+	Query: "Leptodactylus stenodema" ; Times: 1
+	Query: "genus:Kinosternon specificepithet:hirtipes" ; Times: 2
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 2
+	Query: "genus:Laemanctus specificepithet:longipes" ; Times: 5
+	Query: "eleutherodactylus frater" ; Times: 1
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 10
+	Query: "specificepithet:albirostris genus:Leptotyphlops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:viridissimus genus:Philodryas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:Scutulatus genus:Crotalus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Conopsis specificepithet:nasus" ; Times: 2
+	Query: "genus:Uroplatus specificepithet:fimbriatus" ; Times: 5
+	Query: "genus:Dasypeltis specificepithet:scabra" ; Times: 2
+	Query: "specificepithet:cenchoa genus:Imantodes stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "cuora amboinensis" ; Times: 1
+	Query: "uta 58145" ; Times: 1
+	Query: "genus:Salvadora specificepithet:mexicana" ; Times: 5
+	Query: "genus:sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Rhacophorus specificepithet:catamitus" ; Times: 5
+	Query: "53539" ; Times: 1
+	Query: "genus:Thamnodynastes specificepithet:strigatus" ; Times: 5
+	Query: "specificepithet:petola genus:Oxyrhopus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:tantilla genus:Tantilla stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Bombina specificepithet:maxima" ; Times: 5
+	Query: "specificepithet:cobella genus:Liophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Leptodeira splendida sinaloa" ; Times: 1
+	Query: "UTA A 48500" ; Times: 1
+	Query: "genus:Ptychadena specificepithet:oxyrhynchus" ; Times: 2
+	Query: "chiropterotriton magnipes" ; Times: 1
+	Query: "specificepithet:Lepidus genus:Crotalus stateprovince:&#34;Nuevo Leon&#34;" ; Times: 2
+	Query: "class:Reptilia country:&#34;Panama&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:aquilus genus:crotalus" ; Times: 1
+	Query: "genus:Xenopholis specificepithet:scalaris" ; Times: 5
+	Query: "Phyllobates bicolor" ; Times: 2
+	Query: "50204" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 3
+	Query: "specificepithet:montanus genus:Pseudotriton stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:Phelsuma specificepithet:laticauda" ; Times: 2
+	Query: "specificepithet:olfersii genus:Philodryas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:univittatus genus:Atractus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Areolata missouri" ; Times: 4
+	Query: "genus:Candoia specificepithet:carinata" ; Times: 2
+	Query: "genus:Egernia specificepithet:cunninghami" ; Times: 2
+	Query: "class:Amphibia AND Reptilia order:Anura" ; Times: 1
+	Query: "specificepithet:pyburni genus:Umbrivaga stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "rana montezumae" ; Times: 2
+	Query: "genus:Leptopelis specificepithet:brevirostris" ; Times: 6
+	Query: "specificepithet:albifrons genus:Leptotyphlops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Ameiva order:Squamata stateprovince:&#34;Santa Cruz&#34; country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "genus:Bradypodion specificepithet:ventrale" ; Times: 5
+	Query: "genus:Stefania specificepithet:scalae" ; Times: 5
+	Query: "UTA R-8444" ; Times: 3
+	Query: "genus:Varanus specificepithet:olivaceus" ; Times: 5
+	Query: "genus:Nyctixalus specificepithet:pictus" ; Times: 5
+	Query: "specificepithet:isozonus genus:Micrurus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:mastigodryas genus:Mastigodryas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "Bothrops bilineatus" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Conophis specificepithet:lineatus" ; Times: 5
+	Query: "specificepithet:bizona genus:Erythrolamprus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:aesculapii genus:Erythrolamprus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:indica genus:Dipsas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Trichobatrachus specificepithet:robustus" ; Times: 5
+	Query: "genus:Tylototriton specificepithet:verrucosus" ; Times: 6
+	Query: "genus:Toluca" ; Times: 3
+	Query: "specificepithet:chironius genus:Chironius stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "crotalus intermedius" ; Times: 1
+	Query: "Ceratophrys calcarata" ; Times: 4
+	Query: "specificepithet:cenchria genus:Epicrates stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Umbrivaga stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Phrynomantis" ; Times: 3
+	Query: "specificepithet:severus genus:Xenodon stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "ambystoma brewster" ; Times: 1
+	Query: "UTA A-53817" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lygophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Cordylus specificepithet:cordylus" ; Times: 5
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Bolitoglossa specificepithet:mexicana" ; Times: 5
+	Query: "specificepithet:boddaerti genus:Dryadophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:getula genus:lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:poecilogyrus genus:Liophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Leptophis specificepithet:diplotropis" ; Times: 5
+	Query: "specificepithet:areolata genus:Rana county:&#34;Walker&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:lemniscatus genus:Micrurus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:43401" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Sanzinia specificepithet:madagascariensis" ; Times: 5
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;nuevo leon&#34;" ; Times: 1
+	Query: "specificepithet:none genus:Dipsas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Salvadora specificepithet:deserticola" ; Times: 5
+	Query: "specificepithet:atrata genus:Ninia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Tantilla institutioncode:UTA" ; Times: 4
+	Query: "genus:Oxyrhopus specificepithet:guibei" ; Times: 5
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "specificepithet:cenchoa genus:Imantodes stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "psammophis leightoni" ; Times: 2
+	Query: "genus:Heloderma specificepithet:horridum" ; Times: 5
+	Query: "specificepithet:turcicus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:argenteus genus:Oxybelis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "PSEUDOEURYCEA SALTATOR" ; Times: 1
+	Query: "genus:Tantilla specificepithet:jani" ; Times: 4
+	Query: "genus:Tantilla specificepithet:atriceps" ; Times: 5
+	Query: "genus:Cerastes specificepithet:cerastes" ; Times: 5
+	Query: "Amphisbaena alba" ; Times: 2
+	Query: "specificepithet:elaps genus:Atractus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "UTA A 48498" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 2
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;coahuila&#34;" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:carinatus genus:Chironius stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 2
+	Query: "genus:Micrurus class:Reptilia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Ptychohyla specificepithet:hypomykter" ; Times: 2
+	Query: "specificepithet:murinus genus:Eunectes stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Crotalus stejnegeri" ; Times: 4
+	Query: "genus:Pseudoboa specificepithet:neuwiedii" ; Times: 4
+	Query: "specificepithet:annulata genus:Leptodeira stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT MCZ)" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus stateprovince:&#34;Puebla&#34;" ; Times: 1
+	Query: "genus:Nyctibates specificepithet:corrugatus" ; Times: 5
+	Query: "genus:lithobates stateprovince:&#34;nayarit&#34;" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 2
+	Query: "genus:lithobates stateprovince:&#34;michoacan&#34;" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 2
+	Query: "ctenosaura similis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:bifossatus genus:Dryadophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT KU NOT CAS NOT UMMZ)" ; Times: 1
+	Query: "crotalus pricei miquihuanus" ; Times: 2
+	Query: "genus:Ingerophrynus specificepithet:biporcatus" ; Times: 6
+	Query: "genus:Naultinus" ; Times: 3
+	Query: "Atractus poeppigi" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 6
+	Query: "bolitoglossa stuarti" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Masticophis specificepithet:mentovarius" ; Times: 2
+	Query: "genus:Zachaenus specificepithet:parvulus" ; Times: 5
+	Query: "specificepithet:pipilans genus:Eleutherodactylus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "rhadinaea godmani" ; Times: 1
+	Query: "genus:Dryadophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 2
+	Query: "ambystoma flavipiperatum" ; Times: 3
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:UTA" ; Times: 1
+	Query: "genus:Chamaesaura" ; Times: 3
+	Query: "specificepithet:atrata genus:Ninia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Wolterstorffina specificepithet:parvipalmata" ; Times: 5
+	Query: "genus:Typhlops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Amblyrhynchus specificepithet:cristatus" ; Times: 2
+	Query: "genus:Chironius country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "Peltophryne lemur" ; Times: 2
+	Query: "genus:Anilius specificepithet:scytale" ; Times: 5
+	Query: "44414" ; Times: 1
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 2
+	Query: "specificepithet:durissus genus:Crotalus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Kentropyx specificepithet:pelviceps" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:houstonensis" ; Times: 6
+	Query: "genus:Scotobleps specificepithet:gabonicus" ; Times: 6
+	Query: "specificepithet:angulatus genus:Helicops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 1
+	Query: "specificepithet:breviceps genus:Liophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Capensibufo specificepithet:rosei" ; Times: 11
+	Query: "genus:Petropedetes specificepithet:palmipes" ; Times: 10
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 5
+	Query: "coniophanes piceivittis" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "genus:Thamnodynastes stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:argenteus genus:Oxybelis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Hydrops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "rhinella ceratophrys" ; Times: 1
+	Query: "genus:Lechriodus specificepithet:melanopyga" ; Times: 2
+	Query: "genus:Rhineura specificepithet:floridana" ; Times: 2
+	Query: "specificepithet:cervinus genus:Siphlophis country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Cemophora texas" ; Times: 1
+	Query: "genus:Pseudoboa specificepithet:coronata" ; Times: 4
+	Query: "genus:Agama specificepithet:planiceps" ; Times: 2
+	Query: "genus:Corytophanes specificepithet:percarinatus" ; Times: 5
+	Query: "specificepithet:surinamensis genus:Micrurus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Hyalinobatrachium specificepithet:fleischmanni" ; Times: 2
+	Query: "genus:Elaphe specificepithet:radiata" ; Times: 5
+	Query: "genus:Basiliscus specificepithet:plumifrons" ; Times: 2
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "genus:Necturus specificepithet:beyeri" ; Times: 2
+	Query: "specificepithet:indica genus:Dipsas stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Drymobius specificepithet:rhombifer" ; Times: 5
+	Query: "genus:Astylosternus specificepithet:diadematus" ; Times: 5
+	Query: "specificepithet:catenatus genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Colubridae county:&#34;Anderson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Willardi obscurus" ; Times: 1
+	Query: "specificepithet:scurrulus genus:Chironius stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Thelotornis specificepithet:kirtlandii" ; Times: 5
+	Query: "specificepithet:biffossatus genus:Dryadophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "Ceratophrys cranwelli" ; Times: 3
+	Query: "specificepithet:lacerata genus:Holbrookia stateprovince:(texas)" ; Times: 2
+	Query: "genus:Leptodeira stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:alberchi" ; Times: 2
+	Query: "specificepithet:breviceps genus:Liophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Sceloporus stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Oxyrhopus specificepithet:rhombifer" ; Times: 5
+	Query: "Sceloporus salvini" ; Times: 2
+	Query: "genus:Ichthyophis specificepithet:glutinosus" ; Times: 5
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 5
+	Query: "Crotalus durissus totonacus" ; Times: 2
+	Query: "genus:Platysternon specificepithet:megacephalum" ; Times: 6
+	Query: "abronia lythrochila" ; Times: 1
+	Query: "specificepithet:bifossatus genus:Dryadophis stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Oxybelis specificepithet:argenteus" ; Times: 5
+	Query: "specificepithet:surinamensis genus:Micrurus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus institutioncode:UTA" ; Times: 1
+	Query: "genus:Clelia specificepithet:clelia" ; Times: 2
+	Query: "genus:Phyllobates specificepithet:bicolor" ; Times: 5
+	Query: "specificepithet:albifrons genus:Leptotyphlops stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:scurrulus genus:Chironius stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:elaps genus:Atractus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1284 download events in this period)
+Total number of records downloaded: 41291
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Israel ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 6
+	Country: Cuba ; Times: 2
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 6
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-15 ; Times: 4
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-13 ; Times: 7
+	Date: 2018-03-19 ; Times: 3
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-10 ; Times: 5
+	Date: 2018-03-26 ; Times: 4
+	Date: 2018-03-27 ; Times: 2
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 4
+	Date: 2018-03-23 ; Times: 4
+	Date: 2018-03-20 ; Times: 11
+	Date: 2018-03-21 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fleischmanni country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:lithobates stateprovince:&#34;michoacan&#34;" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "sceloporus slevini" ; Times: 1
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "Peltophryne lemur" ; Times: 2
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "crotalus pricei miquihuanus" ; Times: 1
+	Query: "specificepithet:debilis institutioncode:UTA" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;michoacan&#34;" ; Times: 1
+	Query: "Lepidobatrachus" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma country:&#34;mexico&#34;" ; Times: 1
+	Query: "Anolis bombiceps" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+	Query: "Crotalus armstrongi" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 2
+	Query: "sceloporus siniferus" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;nayarit&#34;" ; Times: 1
+	Query: "pseudotriton montanus" ; Times: 1
+	Query: "agkistrodon bilineatus taylori" ; Times: 1
+	Query: "Crotalus totonacus" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:UTA" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "sceloporus brownorum" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "kohtaoensis" ; Times: 1
+	Query: "agkistrodon taylori" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "specificepithet:cheoah genus:plethodon" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;jalisco&#34;" ; Times: 1
+	Query: "Kinixys vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sceloporus aeneus" ; Times: 1
+	Query: "Gekko gecko" ; Times: 1
+	Query: "sceloporus bicanthalis" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Crotalus stejnegeri" ; Times: 1
+	Query: "sceloporus subniger" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Crotalus durissus totonacus" ; Times: 7
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "specificepithet:lacerata genus:holbrookia stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "clonophis kirtlandii" ; Times: 2
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "Plethodon teyahalee" ; Times: 1
+	Query: "genus:lithobates stateprovince:&#34;nayarit&#34;" ; Times: 1
+	Query: "genus:chamaeleolis" ; Times: 1
+	Query: "Porthidium hespere" ; Times: 1
+	Query: "Atractus elaps" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "rana montezumae" ; Times: 2
+	Query: "crotalus morulus" ; Times: 1
+	Query: "chiropterotriton magnipes" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Crotalus tzabcan" ; Times: 1
+
+
+End of report.
