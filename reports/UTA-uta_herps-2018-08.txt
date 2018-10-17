@@ -1,0 +1,619 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 451
+Number of records retrieved in searches: 4943
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 3
+	Country: United States ; Times: 314
+	Country: Mexico ; Times: 43
+	Country: Unknown ; Times: 6
+	Country: South Africa ; Times: 5
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 7
+	Country: Spain ; Times: 52
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: Cameroon ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 11
+	Date: 2018-08-31 ; Times: 9
+	Date: 2018-08-18 ; Times: 2
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-23 ; Times: 10
+	Date: 2018-08-14 ; Times: 7
+	Date: 2018-08-15 ; Times: 8
+	Date: 2018-08-12 ; Times: 4
+	Date: 2018-08-13 ; Times: 6
+	Date: 2018-08-10 ; Times: 17
+	Date: 2018-08-11 ; Times: 2
+	Date: 2018-08-02 ; Times: 23
+	Date: 2018-08-08 ; Times: 40
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-17 ; Times: 9
+	Date: 2018-08-27 ; Times: 7
+	Date: 2018-08-26 ; Times: 14
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 12
+	Date: 2018-08-09 ; Times: 19
+	Date: 2018-08-22 ; Times: 10
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 16
+	Date: 2018-08-05 ; Times: 12
+	Date: 2018-08-04 ; Times: 8
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-06 ; Times: 12
+	Date: 2018-08-01 ; Times: 32
+	Date: 2018-08-29 ; Times: 141
+	Date: 2018-08-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:51390 institutioncode:UTA" ; Times: 1
+	Query: "Rhadinophanes" ; Times: 1
+	Query: "catalognumber:50670 institutioncode:UTA" ; Times: 1
+	Query: "catalognumber:1546 institutioncode:UTA" ; Times: 2
+	Query: "acanthodactylus cantoris" ; Times: 2
+	Query: "Crotalus Willardi meridionalis" ; Times: 1
+	Query: "crotalus willardi amabilis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla county:&#34;Navarro&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "49831" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT FMNH)" ; Times: 2
+	Query: "specificepithet:pricei genus:crotalus stateprovince:&#34;nuevo leon&#34;" ; Times: 1
+	Query: "Abronia lythrochila" ; Times: 2
+	Query: "Storeria tropica" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "catalognumber:40914 institutioncode:UTA" ; Times: 2
+	Query: "genus:Azemiops" ; Times: 1
+	Query: "Naja melanoleuca" ; Times: 2
+	Query: "ovophis (japan)" ; Times: 3
+	Query: "Ctenosaura defensor" ; Times: 2
+	Query: "Atropoides mexicanus" ; Times: 1
+	Query: "catalognumber:17125 institutioncode:UTA" ; Times: 1
+	Query: "crotalus willardi obscurus" ; Times: 2
+	Query: "catalognumber:32337 institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:51140 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:50771 institutioncode:UTA" ; Times: 3
+	Query: "catalognumber:51238 institutioncode:UTA" ; Times: 1
+	Query: "Crotalus vegrandis" ; Times: 2
+	Query: "catalognumber:40915 institutioncode:UTA" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "vipera kaznakovi" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "catalognumber:50738 institutioncode:UTA" ; Times: 3
+	Query: "Atropoides picadoi" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Desmognathus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Crotalus atrox oaxaca" ; Times: 1
+	Query: "catalognumber:18025 institutioncode:UTA" ; Times: 1
+	Query: "catalognumber:1401 institutioncode:UTA" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bothrops leucurus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "Bothriechis supraciliaris" ; Times: 1
+	Query: "Bothrops lojanus" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Crotalus morulus" ; Times: 1
+	Query: "catalognumber:30727 institutioncode:UTA" ; Times: 2
+	Query: "Crotalus obscurus" ; Times: 3
+	Query: "Bitis atropos" ; Times: 1
+	Query: "elaphe obsoleta mississippi" ; Times: 1
+	Query: "thamnophis sirtalis idaho" ; Times: 5
+	Query: "Crotalus Atrox oaxaca" ; Times: 1
+	Query: "Bothrops erythromelas" ; Times: 1
+	Query: "Bothrops insularis" ; Times: 2
+	Query: "Crotalus catalinensis" ; Times: 3
+	Query: "Ungaliophis" ; Times: 1
+	Query: "rhadinaea omiltemana" ; Times: 1
+	Query: "tecunumani family:hylidae" ; Times: 1
+	Query: "Porthidium hespere" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "specificepithet:calligaster genus:Lampropeltis stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "catalognumber:14468 institutioncode:UTA" ; Times: 3
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Suriname&#34;" ; Times: 1
+	Query: "Acontias percivali" ; Times: 3
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "catalognumber:39073 collectioncode:UTA" ; Times: 1
+	Query: "ophiophagus thailand" ; Times: 2
+	Query: "catalognumber:30915 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:7658 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "Bombina maxima" ; Times: 1
+	Query: "SIMMONSI order:anura" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "Vipera kaznakovi" ; Times: 7
+	Query: "genus:Hydromorphus" ; Times: 1
+	Query: "Bothriechis lateralis" ; Times: 1
+	Query: "specificepithet:flavimembris genus:bolitoglossa" ; Times: 2
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 1
+	Query: "Ecnomiohyla" ; Times: 2
+	Query: "salvaje family:hylidae" ; Times: 1
+	Query: "catalognumber:30729 institutioncode:UTA" ; Times: 1
+	Query: "legleri family:hylidae" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla county:&#34;Ellis&#34;" ; Times: 1
+	Query: "catalognumber:32344 institutioncode:UTA" ; Times: 1
+	Query: "catalognumber:12770 institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "catalognumber:1547 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:51139 institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:sistrurus county:&#34;love&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 4
+	Query: "Graptemys pulchra stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "catalognumber:5536 institutioncode:UTA" ; Times: 1
+	Query: "catalognumber:32336 institutioncode:UTA" ; Times: 1
+	Query: "Cryophis" ; Times: 1
+	Query: "genus:Crotalus institutioncode:UTA" ; Times: 1
+	Query: "crotalus transversus" ; Times: 1
+	Query: "macrotympanum family:hylidae" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:naja country:&#34;cameroon&#34;" ; Times: 1
+	Query: "pokomchi family:hylidae" ; Times: 1
+	Query: "specificepithet:atriceps genus:tantilla stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "rabborum family:hylidae" ; Times: 1
+	Query: "specificepithet:bizona genus:Erythrolamprus institutioncode:UTA" ; Times: 3
+	Query: "specificepithet:muta country:&#34;trinidad&#34;" ; Times: 1
+	Query: "genus:Caudiverbera specificepithet:caudiverbera" ; Times: 3
+	Query: "ophryacus" ; Times: 1
+	Query: "nigrovittatus order:anura" ; Times: 1
+	Query: "catalognumber:51141 institutioncode:UTA" ; Times: 3
+	Query: "Agkistrodon contortrix 100" ; Times: 1
+	Query: "Crotalus armstrongi" ; Times: 2
+	Query: "specificepithet:Catenatus genus:Sistrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:wrighti genus:Desmognathus institutioncode:UTA" ; Times: 1
+	Query: "Bothriechis nigroviridis" ; Times: 1
+	Query: "catalognumber:51372 institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:veracrucis genus:bolitoglossa" ; Times: 1
+	Query: "deinagkistrodon" ; Times: 1
+	Query: "catalognumber:51389 institutioncode:UTA" ; Times: 2
+	Query: "Bothrops pubescens" ; Times: 3
+	Query: "Lachesis melanocephala" ; Times: 1
+	Query: "catalognumber:5528 institutioncode:UTA" ; Times: 1
+	Query: "salvavida family:hylidae" ; Times: 1
+	Query: "Barisia imbricata mexico" ; Times: 1
+	Query: "Atropoides occiduus" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "Bothriechis bicolor" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "genus:Helminthophis" ; Times: 1
+	Query: "sonora michoacanensis" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 2
+	Query: "catalognumber:40917 institutioncode:UTA" ; Times: 2
+	Query: "tecuani" ; Times: 1
+	Query: "county:&#34;madison&#34; stateprovince:&#34;iowa&#34;" ; Times: 2
+	Query: "Pseudoeurycea altamontana" ; Times: 2
+	Query: "nyctanolis" ; Times: 1
+	Query: "rhadinaea marcellae" ; Times: 1
+	Query: "catalognumber:14467 institutioncode:UTA" ; Times: 3
+	Query: "Sceloporus aureolus" ; Times: 2
+	Query: "Bothrops fonsecai" ; Times: 2
+	Query: "Sphenodon" ; Times: 2
+	Query: "country:&#34;Nicaragua&#34; institutioncode:UTA" ; Times: 1
+	Query: "Storeria hidalgoensis" ; Times: 1
+	Query: "Rana brownorum" ; Times: 3
+	Query: "atractaspis reticulata" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "Atropoides olmec" ; Times: 1
+	Query: "teuchestes family:hylidae" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "specificepithet:riletti genus:bolitoglossa" ; Times: 1
+	Query: "specificepithet:dunni genus:bolitoglossa" ; Times: 1
+	Query: "catalognumber:22367 institutioncode:UTA" ; Times: 6
+	Query: "catalognumber:51391 institutioncode:UTA" ; Times: 3
+	Query: "Exiliboa" ; Times: 1
+	Query: "catalognumber:50780 institutioncode:UTA" ; Times: 3
+	Query: "catalognumber:50671 institutioncode:UTA" ; Times: 3
+	Query: "perkinsi family:hylidae" ; Times: 1
+	Query: "Crotalus transversus" ; Times: 2
+	Query: "catalognumber:50739 institutioncode:UTA" ; Times: 3
+	Query: "catalognumber:24636 institutioncode:UTA" ; Times: 3
+	Query: "specificepithet:cinerea genus:Hyla county:&#34;Ellis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus totonacus" ; Times: 3
+	Query: "catalognumber:51240 institutioncode:UTA" ; Times: 2
+	Query: "39306" ; Times: 1
+	Query: "catalognumber:28799 institutioncode:UTA" ; Times: 1
+	Query: "catalognumber:8184 institutioncode:UTA" ; Times: 3
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "class:reptilia county:&#34;madison&#34; stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes institutioncode:UTA" ; Times: 1
+	Query: "Bothrops moojeni" ; Times: 1
+	Query: "genus:Casarea" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "catalognumber:6945 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:40916 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:51370 institutioncode:UTA" ; Times: 3
+	Query: "specificepithet:augusti genus:craugastor stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:10283 institutioncode:UTA" ; Times: 2
+	Query: "specificepithet:schistosa genus:Tantilla country:&#34;Mexico&#34;" ; Times: 1
+	Query: "graceae family:hylidae" ; Times: 1
+	Query: "nerodia grahamii" ; Times: 1
+	Query: "catalognumber:51387 institutioncode:UTA" ; Times: 2
+	Query: "Crotalus aguascalientes" ; Times: 2
+	Query: "catalognumber:45168 institutioncode:UTA" ; Times: 2
+	Query: "genus:Adelphicos stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lachesis acrochorda" ; Times: 1
+	Query: "genus:bothrops country:&#34;trinidad&#34;" ; Times: 1
+	Query: "sanctaecrucis family:hylidae" ; Times: 1
+	Query: "salvadorensis family:hylidae" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "Eryx johnii" ; Times: 1
+	Query: "Bothrops pauloensis" ; Times: 1
+	Query: "Crotalus culminatus" ; Times: 1
+	Query: "Azemiops" ; Times: 1
+	Query: "genus:nyctanolis" ; Times: 2
+	Query: "catalognumber:51386 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:34551 institutioncode:UTA" ; Times: 1
+	Query: "catalognumber:7258 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:51388 institutioncode:UTA" ; Times: 2
+	Query: "pseudoeurycea rex country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Anadia" ; Times: 2
+	Query: "57648" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla county:&#34;Navarro&#34;" ; Times: 1
+	Query: "Bothrops bilineatus" ; Times: 1
+	Query: "catalognumber:30728 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:33708 institutioncode:UTA" ; Times: 3
+	Query: "Heloderma Chiapas" ; Times: 1
+	Query: "genus:Sistrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Adelphicos stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "Crotalus pusillus" ; Times: 1
+	Query: "Hydromorphus concolor" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "dendrophasma family:hylidae" ; Times: 1
+	Query: "specificepithet:atriceps genus:tantilla country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:bizona genus:Erythrolamprus stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:50798 institutioncode:UTA" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 3
+	Query: "Bothrops sanctaecrucis" ; Times: 1
+	Query: "catalognumber:31018 institutioncode:UTA" ; Times: 3
+	Query: "specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "Sceloporus immucronatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 4
+	Query: "Sceloporus mucronatus aureolus" ; Times: 1
+	Query: "Klauberi new mexico" ; Times: 1
+	Query: "Crotalus unicolor" ; Times: 1
+	Query: "catalognumber:40918 institutioncode:UTA" ; Times: 2
+	Query: "cryophis hallbergi" ; Times: 8
+	Query: "Bothrops caribbaeus" ; Times: 1
+	Query: "catalognumber:28798 institutioncode:UTA" ; Times: 1
+	Query: "catalognumber:31061 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:51371 institutioncode:UTA" ; Times: 1
+	Query: "Bolitoglossa veracrucis" ; Times: 1
+	Query: "catalognumber:32343 institutioncode:UTA" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 4
+	Query: "genus:Sistrurus county:&#34;Tarrant&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Cauca class:Amphibia country:&#34;Colombia&#34; atelopus ebenoides" ; Times: 1
+	Query: "immaculatus order:anura" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT FMNH) institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bothriechis thalassinus" ; Times: 1
+	Query: "Phrynops geoffroanus" ; Times: 2
+	Query: "catalognumber:40919 institutioncode:UTA" ; Times: 2
+	Query: "catalognumber:12036 institutioncode:UTA" ; Times: 1
+	Query: "Bothrops jonathani" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "Bothrocophias myersi" ; Times: 1
+	Query: "catalognumber:17304 institutioncode:UTA" ; Times: 1
+	Query: "Thamnophis durango mexico errans" ; Times: 6
+	Query: "Scaphiopus intermontana" ; Times: 2
+	Query: "bolitoglossa odonnelli country:&#34;guatemala&#34;" ; Times: 1
+	Query: "Lachesis stenophrys" ; Times: 1
+	Query: "catalognumber:34550 institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:32513 institutioncode:UTA" ; Times: 2
+	Query: "graptemys pulchra mississippi" ; Times: 1
+	Query: "Bolitoglossa alberchi" ; Times: 1
+	Query: "Tropidodipsas sartorii Oaxaca" ; Times: 1
+	Query: "specificepithet:salvinii genus:bolitoglossa" ; Times: 1
+	Query: "Bothriechis rowleyi" ; Times: 1
+	Query: "catalognumber:30943 institutioncode:UTA" ; Times: 4
+	Query: "catalognumber:19351 institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:latifasciatus genus:Adelphicos country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Boulengerina" ; Times: 2
+	Query: "spinipollex family:hylidae" ; Times: 1
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "catalognumber:33707 institutioncode:UTA" ; Times: 3
+	Query: "specificepithet:latifasciatus genus:Adelphicos" ; Times: 1
+	Query: "catalognumber:51398 institutioncode:UTA" ; Times: 2
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 4
+	Query: "Porthidium volcanicum" ; Times: 1
+	Query: "UTA-A 56732" ; Times: 1
+	Query: "Crotalus stejnegeri" ; Times: 1
+	Query: "catracha family:hylidae" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:cervinus genus:Siphlophis" ; Times: 1
+	Query: "catalognumber:17126 institutioncode:UTA" ; Times: 1
+	Query: "petropedetes cameronensis" ; Times: 1
+	Query: "tantillita lintoni" ; Times: 1
+	Query: "Rana taylori" ; Times: 4
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 4
+	Query: "specificepithet:polylepis genus:Dendroaspis family:Elapidae order:Squamata" ; Times: 1
+	Query: "catalognumber:51241 institutioncode:UTA" ; Times: 1
+	Query: "miliaria family:hylidae" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Tropidodipsas sartorii Veracruz" ; Times: 1
+	Query: "sistrurus miliarius Oklahoma" ; Times: 3
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "UTA A 3833" ; Times: 1
+	Query: "catalognumber:17305 institutioncode:UTA" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 234 (out of 1416 download events in this period)
+Total number of records downloaded: 70901
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 49
+	Country: Colombia ; Times: 4
+	Country: South Africa ; Times: 2
+	Country: Denmark ; Times: 2
+	Country: Mexico ; Times: 48
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Spain ; Times: 89
+	Country: Chile ; Times: 1
+	Country: Unknown ; Times: 26
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 8
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-19 ; Times: 13
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-09 ; Times: 28
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-10 ; Times: 30
+	Date: 2018-08-08 ; Times: 34
+	Date: 2018-08-02 ; Times: 6
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-27 ; Times: 4
+	Date: 2018-08-26 ; Times: 17
+	Date: 2018-08-25 ; Times: 12
+	Date: 2018-08-24 ; Times: 24
+	Date: 2018-08-23 ; Times: 9
+	Date: 2018-08-22 ; Times: 6
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-07 ; Times: 7
+	Date: 2018-08-06 ; Times: 5
+	Date: 2018-08-01 ; Times: 8
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pricei genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "specificepithet:andreae genus:Adenomera" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Bothrops asper" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "Bothrops ammodytoides" ; Times: 1
+	Query: "rhamphiophis" ; Times: 1
+	Query: "genus:Azemiops" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Atropoides mexicanus" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Crotalus vegrandis" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 2
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "family:Plethodontidae county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:ebraccatus genus:Dendropsophus" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Atropoides picadoi" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "specificepithet:vaillanti genus:Rana" ; Times: 1
+	Query: "Anolis uniformis" ; Times: 1
+	Query: "Bothrocophias myersi" ; Times: 1
+	Query: "specificepithet:palmipes genus:Rana" ; Times: 1
+	Query: "Bothrops leucurus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Bothriechis supraciliaris" ; Times: 1
+	Query: "Bothrops lojanus" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Sceloporus torquatus torquatus" ; Times: 1
+	Query: "specificepithet:calcarifer genus:Cruziohyla" ; Times: 1
+	Query: "Sistrurus tergeminus" ; Times: 1
+	Query: "Crotalus morulus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "family:Bufonidae continent:Africa AND (NOT bufo)" ; Times: 1
+	Query: "Bothrops erythromelas" ; Times: 1
+	Query: "Porthidium lansbergii" ; Times: 1
+	Query: "Bothrops insularis" ; Times: 2
+	Query: "Crotalus catalinensis" ; Times: 1
+	Query: "genus:Liotyphlops" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Ungaliophis" ; Times: 1
+	Query: "Bothrops neuwiedi" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Atropoides occiduus" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "class:amphibia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "plectrohyla matudai" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Laticauda laticaudata" ; Times: 1
+	Query: "Bothrops bilineatus" ; Times: 1
+	Query: "Scincella gemmingeri gemmingeri" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 2
+	Query: "Vipera kaznakovi" ; Times: 1
+	Query: "Sceloporus spinosus spinosus" ; Times: 1
+	Query: "Bothriechis lateralis" ; Times: 1
+	Query: "Chironius exoletus" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "hyla eximia" ; Times: 1
+	Query: "Bolitoglossa alberchi" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "specificepithet:rathbuni genus:Eurycea" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "telmatobius marmoratus" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "sistrurus" ; Times: 1
+	Query: "Porthidium yucatanicum" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 2
+	Query: "genus:Crotalus institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:stenodema genus:Leptodactylus" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Leptodactylus" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "sistrurus miliarius texas" ; Times: 2
+	Query: "Bothriechis thalassinus" ; Times: 1
+	Query: "Anotheca spinosa" ; Times: 1
+	Query: "Bothriechis nigroviridis" ; Times: 1
+	Query: "specificepithet:junaluska genus:eurycea" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 2
+	Query: "Bothrops pubescens" ; Times: 1
+	Query: "Lachesis melanocephala" ; Times: 1
+	Query: "specificepithet:jordani genus:Trachycephalus" ; Times: 1
+	Query: "specificepithet:verruciger genus:Osteocephalus" ; Times: 1
+	Query: "Mabuya brachypoda" ; Times: 1
+	Query: "Bothriechis bicolor" ; Times: 1
+	Query: "ingerophrynus" ; Times: 1
+	Query: "genus:Helminthophis" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "rana muscosa" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa" ; Times: 1
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "Bothrops fonsecai" ; Times: 2
+	Query: "specificepithet:knudseni genus:Leptodactylus" ; Times: 1
+	Query: "Laticauda semifasciata" ; Times: 1
+	Query: "specificepithet:ruber genus:Scinax" ; Times: 1
+	Query: "Atropoides olmec" ; Times: 1
+	Query: "dinodon (japan)" ; Times: 1
+	Query: "Exiliboa" ; Times: 1
+	Query: "specificepithet:wilderae genus:eurycea" ; Times: 1
+	Query: "Crotalus transversus" ; Times: 1
+	Query: "specificepithet:cirrigera genus:eurycea" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Sceloporus bicanthalis" ; Times: 1
+	Query: "specificepithet:rhodomystax genus:Leptodactylus" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Bothrops moojeni" ; Times: 1
+	Query: "genus:Casarea" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "genus:Plethodon county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "specificepithet:bassleri genus:Chiasmocleis" ; Times: 1
+	Query: "specificepithet:perezi genus:Edalorhina" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Sceloporus variabilis variabilis" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "proceratophrys" ; Times: 1
+	Query: "specificepithet:leptodactyloides genus:Leptodactylus" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "genus:Boulengerina" ; Times: 1
+	Query: "oaxaca and amphibia" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "crotalus enyo" ; Times: 1
+	Query: "Bothrops pauloensis" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Crotalus culminatus" ; Times: 1
+	Query: "Azemiops" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "Anolis sericeus" ; Times: 1
+	Query: "Bothrops jararacussu" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "specificepithet:rabus genus:Synapturanus" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "tropidoclonion" ; Times: 1
+	Query: "Crotalus pusillus" ; Times: 1
+	Query: "Porthidium ophryomegas" ; Times: 2
+	Query: "specificepithet:marginatus genus:Stereochilus" ; Times: 1
+	Query: "Thorius spilogaster" ; Times: 1
+	Query: "Bothrops sanctaecrucis" ; Times: 2
+	Query: "specificepithet:peritoaktites genus:Leptodactylus" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "Cerrophidion godmani" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Bothrops caribbaeus" ; Times: 1
+	Query: "Abronia lythrochila" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Cauca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Bolitoglossa veracrucis" ; Times: 1
+	Query: "Helicops angulatus" ; Times: 1
+	Query: "specificepithet:hylaedactyla genus:Adenomera" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "specificepithet:tomopterna genus:Phyllomedusa" ; Times: 1
+	Query: "Crotalus aquilus" ; Times: 2
+	Query: "Crotalus tzabcan" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Sistrurus miliarius texas" ; Times: 2
+	Query: "specificepithet:wagneri genus:Leptodactylus" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 1
+	Query: "Crotalus pyrrhus" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "specificepithet:cabrerai genus:Osteocephalus" ; Times: 1
+	Query: "Lachesis stenophrys" ; Times: 1
+	Query: "Incilius campbelli" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "specificepithet:vaillantii genus:Phyllomedusa" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 2
+	Query: "Bothriechis rowleyi" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "genus:Clelia" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Sceloporus aureolus" ; Times: 1
+	Query: "Hyla euphorbiacea" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Sceloporus formosus formosus" ; Times: 1
+	Query: "Crotalus stejnegeri" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "Reptilia Jalisco" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "psammophylax" ; Times: 1
+	Query: "sistrurus miliarius Oklahoma" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:Scaphiodontophis" ; Times: 1
+
+
+End of report.
