@@ -1,0 +1,364 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 348
+Number of records retrieved in searches: 3228
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 274
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: El Salvador ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Vietnam ; Times: 1
+	Country: China ; Times: 4
+	Country: Spain ; Times: 4
+	Country: Chile ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Dominican Republic ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Ecuador ; Times: 1
+	Country: Nicaragua ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-27 ; Times: 1
+	Date: 2018-12-06 ; Times: 34
+	Date: 2018-12-19 ; Times: 23
+	Date: 2018-12-18 ; Times: 12
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-30 ; Times: 4
+	Date: 2018-12-15 ; Times: 10
+	Date: 2018-12-14 ; Times: 10
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-16 ; Times: 13
+	Date: 2018-12-11 ; Times: 18
+	Date: 2018-12-10 ; Times: 12
+	Date: 2018-12-13 ; Times: 5
+	Date: 2018-12-12 ; Times: 29
+	Date: 2018-12-20 ; Times: 5
+	Date: 2018-12-21 ; Times: 18
+	Date: 2018-12-22 ; Times: 8
+	Date: 2018-12-23 ; Times: 6
+	Date: 2018-12-24 ; Times: 5
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-26 ; Times: 2
+	Date: 2018-12-09 ; Times: 18
+	Date: 2018-12-28 ; Times: 4
+	Date: 2018-12-07 ; Times: 5
+	Date: 2018-12-04 ; Times: 14
+	Date: 2018-12-05 ; Times: 42
+	Date: 2018-12-02 ; Times: 3
+	Date: 2018-12-03 ; Times: 34
+	Date: 2018-12-01 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Typhlonectes specificepithet:compressicauda" ; Times: 1
+	Query: "Agkistrodon piscivorous" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rhinobothryum bovallii country:&#34;costa rica&#34;" ; Times: 2
+	Query: "uta 7937" ; Times: 1
+	Query: "cerrophidion godmani" ; Times: 1
+	Query: "genus:bothrops stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Trimeresurus kanburiensis" ; Times: 1
+	Query: "UTA R-46661" ; Times: 1
+	Query: "specificepithet:speciosus genus:Bufo class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Trachycephalus specificepithet:resinifictrix" ; Times: 1
+	Query: "Ctenosaura defensor" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 1
+	Query: "Lampropeltis colima" ; Times: 1
+	Query: "UTA 6821" ; Times: 1
+	Query: "specificepithet:marchi genus:Bothriechis country:&#34;Honduras&#34;" ; Times: 1
+	Query: "45926" ; Times: 3
+	Query: "bothrops caribbaeus" ; Times: 1
+	Query: "vipera siamensis" ; Times: 1
+	Query: "salamandrina" ; Times: 1
+	Query: "Tropidodipsas colima" ; Times: 1
+	Query: "Pseudocerastes persicus" ; Times: 1
+	Query: "Amphibia Mississippi perry" ; Times: 2
+	Query: "Crotalus atrox oaxaca" ; Times: 1
+	Query: "gonatodes aruba" ; Times: 1
+	Query: "Trimeresurus purpureomaculatus" ; Times: 1
+	Query: "genus:Porthidium country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "UTA 8193" ; Times: 2
+	Query: "genus:Andrias specificepithet:japonicus" ; Times: 1
+	Query: "Ctenosaura pectinata colima" ; Times: 1
+	Query: "UTA 6234" ; Times: 2
+	Query: "specificepithet:reticulatus genus:Coleonyx class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Crotalus country:&#34;Guyana&#34;" ; Times: 2
+	Query: "genus:Cynops specificepithet:orientalis" ; Times: 1
+	Query: "Shinisaurus crocodilurus country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "bothriechis supraciliaris" ; Times: 1
+	Query: "Trimorphodon biscutatus colima" ; Times: 1
+	Query: "abronia ochoterenai" ; Times: 3
+	Query: "iguana iguana colima" ; Times: 1
+	Query: "Bothrops pauloensis" ; Times: 2
+	Query: "UTA 30830" ; Times: 4
+	Query: "bothriechis nigroviridis" ; Times: 1
+	Query: "genus:Eurycea county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gorzugi" ; Times: 1
+	Query: "ebraccatus" ; Times: 2
+	Query: "specificepithet:orbiculare genus:Phrynosoma stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "uta 25409" ; Times: 1
+	Query: "Amphibia Mississippi forrest" ; Times: 3
+	Query: "specificepithet:dunni genus:Bolitoglossa" ; Times: 1
+	Query: "Triprion spatulatus colima" ; Times: 1
+	Query: "ctenosaura defensor" ; Times: 2
+	Query: "atheris hispida" ; Times: 1
+	Query: "Gastrotheca cornuta" ; Times: 1
+	Query: "Pituophis Mississippi" ; Times: 2
+	Query: "UTA 41028" ; Times: 2
+	Query: "Hemidactylus colima" ; Times: 1
+	Query: "specificepithet:kaqchikelorum genus:Bolitoglossa" ; Times: 1
+	Query: "Acanthosaura armata" ; Times: 1
+	Query: "catalognumber:9861 institutioncode:UTA" ; Times: 2
+	Query: "genus:Anaxyrus specificepithet:houstonensis" ; Times: 9
+	Query: "Vipera transcaucasiana" ; Times: 1
+	Query: "genus:norops country:&#34;honduras&#34;" ; Times: 2
+	Query: "Hemidactylus frenatus colima" ; Times: 1
+	Query: "order:gymnophiona country:&#34;thailand&#34;" ; Times: 1
+	Query: "UTA 8225" ; Times: 2
+	Query: "institutioncode:UTA" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinella marina " ; Times: 1
+	Query: "Abronia chiszari" ; Times: 1
+	Query: "UTA 8339" ; Times: 1
+	Query: "Rhinobothryum bovallii" ; Times: 55
+	Query: "genus:Ambystoma county:&#34;Santa Barbara&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "crotalus transversus" ; Times: 2
+	Query: "Coniophanes schmidti Yucatán" ; Times: 1
+	Query: "tarahumarae jalisco" ; Times: 3
+	Query: "specificepithet:savannah genus:Plethodon" ; Times: 1
+	Query: "genus:Bothrops country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "UTA 39338" ; Times: 4
+	Query: "specificepithet:odonnelli genus:Bolitoglossa" ; Times: 1
+	Query: "Abronia ochoterenai" ; Times: 1
+	Query: "abronia chiszari" ; Times: 3
+	Query: "smilisca baudinii colima" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 4
+	Query: "Abronia ornelasi" ; Times: 1
+	Query: "UTA 6258" ; Times: 2
+	Query: "uta 31827" ; Times: 1
+	Query: "Coniophanes piceivittis Costa Rica" ; Times: 3
+	Query: "specificepithet:rufitela genus:hyla" ; Times: 1
+	Query: "Bothrops pubescens" ; Times: 2
+	Query: "Adamanteus Mississippi" ; Times: 5
+	Query: "Porthidium hespere colima" ; Times: 1
+	Query: "Loxocemus bicolor colima" ; Times: 1
+	Query: "Rhadinaea Guerrero" ; Times: 1
+	Query: "blairi vntype:specimen stateprovince:&#34;Texas&#34; (lithobates)" ; Times: 2
+	Query: "xantusia bolsonae" ; Times: 2
+	Query: "catalognumber:58667 institutioncode:UTA" ; Times: 1
+	Query: "Limnomedusa" ; Times: 2
+	Query: "UTA 6121" ; Times: 3
+	Query: "UTA 16353" ; Times: 4
+	Query: "genus:bothrops country:&#34;trinidad&#34;" ; Times: 1
+	Query: "abronia ornelasi" ; Times: 2
+	Query: "polychrus gutturosus" ; Times: 1
+	Query: "UTA 6260" ; Times: 1
+	Query: "uta 5114" ; Times: 1
+	Query: "uta 17904" ; Times: 1
+	Query: "bothriechis bicolor" ; Times: 1
+	Query: "Trimeresurus borneensis" ; Times: 2
+	Query: "vntype:specimen specificepithet:meridionalis genus:anolis" ; Times: 1
+	Query: "Reptilia texas marion" ; Times: 1
+	Query: "genus:aristelliger country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Clemmys south carolina" ; Times: 3
+	Query: "UTA R-46526" ; Times: 2
+	Query: "Crotalus transversus" ; Times: 1
+	Query: "UTA 57692" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:lemur" ; Times: 1
+	Query: "Cemophora louisiana natchitoches" ; Times: 1
+	Query: "glyphoglossus molossus" ; Times: 1
+	Query: "Abronia deppii" ; Times: 1
+	Query: "Coniophanes piceivittis Honduras" ; Times: 1
+	Query: "specificepithet:elegans genus:coleonyx stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Pseudocerastes fieldi" ; Times: 2
+	Query: "UTA 34605" ; Times: 1
+	Query: "smilisca fodiens colima" ; Times: 1
+	Query: "Leptodeira maculata colima" ; Times: 1
+	Query: "vntype:specimen specificepithet:petersii genus:anolis" ; Times: 1
+	Query: "UTA-R 57692" ; Times: 1
+	Query: "boa colima" ; Times: 1
+	Query: "atropoides mexicanus" ; Times: 1
+	Query: "UTA 5252" ; Times: 2
+	Query: "specificepithet:wislizenii genus:gambelia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "UTA-35031" ; Times: 1
+	Query: "Crotalus willardi silus sonora" ; Times: 5
+	Query: "Xantusia bolsonae" ; Times: 1
+	Query: "bothriechis aurifer" ; Times: 2
+	Query: "atheris squamiger" ; Times: 1
+	Query: "bothriopsis taeniata" ; Times: 1
+	Query: "Deirochelys texas" ; Times: 2
+	Query: "Rhinoclemmys rubida colima" ; Times: 1
+	Query: "Micrurus colima" ; Times: 1
+	Query: "specificepithet:aquaticus genus:anolis country:&#34;costa rica&#34;" ; Times: 1
+	Query: "Heloderma horridum colima" ; Times: 1
+	Query: "Crotalus lepidus klauberi sonora" ; Times: 1
+	Query: "genus:Ambystoma stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "bothrops insularis" ; Times: 1
+	Query: "specificepithet:carinatus genus:Sternotherus institutioncode:UTA" ; Times: 1
+	Query: "bitis caudalis" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "vipera mauritanica" ; Times: 2
+	Query: "genus:Xenosaurus stateprovince:&#34;San Luis Potosi&#34;" ; Times: 1
+	Query: "genus:tantilla institutioncode:UTA" ; Times: 6
+	Query: "Reptilia texas cass" ; Times: 1
+	Query: "Shinisaurus crocodilurus" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "sceloporus dugesi colima" ; Times: 1
+	Query: "deirochelys reticulata" ; Times: 2
+	Query: "specificepithet:horridus genus:Crotalus institutioncode:UTA" ; Times: 1
+	Query: "UTA 21911" ; Times: 2
+	Query: "Physignathus cocincinus country:&#34;china&#34;" ; Times: 1
+	Query: "Tropidurus semitaeniatus" ; Times: 4
+	Query: "bothriopsis bilineata" ; Times: 3
+	Query: "Lampropeltis louisiana natchitoches" ; Times: 2
+	Query: "genus:Bolitoglossa specificepithet:dunni" ; Times: 1
+	Query: "UTA 34547" ; Times: 2
+	Query: "Bolitoglossa riletti" ; Times: 3
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "Oxyrhopus Mexico" ; Times: 1
+	Query: "blairi vntype:specimen (lithobates) institutioncode:UTA" ; Times: 1
+	Query: "Vipera palestinae" ; Times: 1
+	Query: "UTA R-39413" ; Times: 1
+	Query: "Rigida oklahoma" ; Times: 2
+	Query: "azemiops" ; Times: 1
+	Query: "UTA 24763" ; Times: 2
+	Query: "Phyllodactylus tuberculosus colima" ; Times: 1
+	Query: "genus:thecadactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Agkistrodon bilineatus colima" ; Times: 1
+	Query: "genus:Ambystoma annulatum stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Imantodes lentiferus" ; Times: 1
+	Query: "Daboia" ; Times: 1
+	Query: "Reptilia texas morris" ; Times: 1
+	Query: "bufo marmoreus colima" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "Reptilia louisiana claiborne" ; Times: 2
+	Query: "uta 7617" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "Conraua goliath" ; Times: 2
+	Query: "46722" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "bothriechis thalassinus" ; Times: 2
+	Query: "UTA 24829" ; Times: 2
+	Query: "jalisco tarahumarae" ; Times: 1
+	Query: "genus:sistrurus county:&#34;love&#34; stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "phrynosoma asio colima" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 809 download events in this period)
+Total number of records downloaded: 11695
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 38
+	Country: Germany ; Times: 8
+	Country: Ireland ; Times: 1
+	Country: China ; Times: 1
+	Country: Taiwan ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-13 ; Times: 3
+	Date: 2018-12-10 ; Times: 3
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-22 ; Times: 15
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-11 ; Times: 8
+	Date: 2018-12-03 ; Times: 7
+	Date: 2018-12-07 ; Times: 8
+	Date: 2018-12-12 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "ebraccatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "desmognathus wrighti" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "helicops" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "Anolis crassulus" ; Times: 1
+	Query: "genus:Ambystoma maculatum stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "specificepithet:gigas genus:Hydrodynastes" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 1
+	Query: "telescopus fallax" ; Times: 1
+	Query: "Eleutherodactylus heminota" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "reptile vietnam" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "abronia graminea" ; Times: 1
+	Query: "Megophryidae" ; Times: 2
+	Query: "Anolis allisoni" ; Times: 1
+	Query: "crotalus transversus" ; Times: 1
+	Query: "ctenosaura defensor" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "abronia ochoterenai" ; Times: 1
+	Query: "amethistina" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "crotalus tzabcan" ; Times: 1
+	Query: "gastrotheca" ; Times: 1
+	Query: "Graptemys caglei" ; Times: 1
+	Query: "ophiophagus" ; Times: 1
+	Query: "vntype:specimen order:Squamata class:Reptilia country:&#34;Belize&#34;" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "abronia chiszari" ; Times: 2
+	Query: "order:Testudines" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Ambystoma annulatum stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "goniurosaurus" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 1
+	Query: "amphibia vietnam" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "Anolis capito" ; Times: 1
+	Query: "genus:Eurycea tynerensis stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Shinisaurus crocodilurus country:&#34;china&#34;" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "genus:Desmognathus brimleyorum stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "xantusia bolsonae" ; Times: 1
+	Query: "abronia ornelasi" ; Times: 1
+
+
+End of report.
