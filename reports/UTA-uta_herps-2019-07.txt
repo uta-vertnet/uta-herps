@@ -1,0 +1,313 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 215
+Number of records retrieved in searches: 2131
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 4
+	Country: Nepal ; Times: 7
+	Country: France ; Times: 4
+	Country: United States ; Times: 151
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Hong Kong ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 22
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-08 ; Times: 40
+	Date: 2019-07-12 ; Times: 13
+	Date: 2019-07-13 ; Times: 3
+	Date: 2019-07-10 ; Times: 11
+	Date: 2019-07-11 ; Times: 7
+	Date: 2019-07-16 ; Times: 5
+	Date: 2019-07-17 ; Times: 4
+	Date: 2019-07-15 ; Times: 11
+	Date: 2019-07-02 ; Times: 5
+	Date: 2019-07-03 ; Times: 5
+	Date: 2019-07-23 ; Times: 9
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-21 ; Times: 5
+	Date: 2019-07-20 ; Times: 6
+	Date: 2019-07-26 ; Times: 3
+	Date: 2019-07-25 ; Times: 4
+	Date: 2019-07-24 ; Times: 19
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-30 ; Times: 3
+	Date: 2019-07-29 ; Times: 3
+	Date: 2019-07-28 ; Times: 4
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-04 ; Times: 8
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-06 ; Times: 8
+	Date: 2019-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lampropeltis stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:cognatus county:&#34;navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Heloderma specificepithet:horridum" ; Times: 1
+	Query: "genus:Eurycea order:Caudata county:&#34;Taney&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Elachistocleis country:&#34;peru&#34;" ; Times: 3
+	Query: "specificepithet:pulchrilatus genus:Thamnophis stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "specificepithet:superciliaris family:Bufonidae" ; Times: 2
+	Query: "specificepithet:triseriata class:amphibia stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "genus:Abronia specificepithet:deppii" ; Times: 1
+	Query: "genus:Natriciteres" ; Times: 1
+	Query: "genus:Eurycea order:Caudata county:&#34;McDonald&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:abacura genus:farancia stateprovince:&#34;mississippi&#34;" ; Times: 2
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "rhinobothryum" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea class:amphibia county:&#34;navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "ambystoma annulatum" ; Times: 2
+	Query: "Geophis omiltemanus" ; Times: 1
+	Query: "specificepithet:marmoreus family:bufonidae stateprovince:&#34;Michoacan&#34;" ; Times: 2
+	Query: "specificepithet:triseriata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "Elaphe moellendorffi" ; Times: 2
+	Query: "specificepithet:texanum genus:Ambystoma stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:22345 institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:annulatum genus:Ambystoma county:&#34;Stone&#34; stateprovince:&#34;Missouri&#34;" ; Times: 2
+	Query: "micrurus surinamensis" ; Times: 1
+	Query: "specificepithet:punctatus class:amphibia county:&#34;coconino&#34;" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Uta 31109" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "Norops nebulosus" ; Times: 1
+	Query: "genus:Lacerta specificepithet:viridis" ; Times: 1
+	Query: "specificepithet:lecontei stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "genus:Pseudacris stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "catalognumber:52552 institutioncode:UTA" ; Times: 1
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "specificepithet:multiplicata county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Bombina maxima" ; Times: 1
+	Query: "Willardi sonora" ; Times: 1
+	Query: "genus:Pseudemys specificepithet:texana" ; Times: 1
+	Query: "Acanthosaura armata" ; Times: 2
+	Query: "genus:Eristicophis specificepithet:macmahoni" ; Times: 1
+	Query: "genus:Naultinus" ; Times: 1
+	Query: "Podocnemis erythrocephala" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;navajo&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Nerodia county:&#34;Hood&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Xenopus specificepithet:fraseri" ; Times: 1
+	Query: "genus:Ptychozoon" ; Times: 1
+	Query: "genus:Micrurus specificepithet:nigrocinctus" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Chironius institutioncode:UTA" ; Times: 2
+	Query: "genus:Farancia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "rhadinaea serperaster" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "genus:Caudiverbera specificepithet:caudiverbera" ; Times: 1
+	Query: "specificepithet:bombifrons county:&#34;Navajo&#34;" ; Times: 1
+	Query: "Enulius México" ; Times: 1
+	Query: "specificepithet:rigida genus:Regina stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "catalognumber:46759 institutioncode:UTA" ; Times: 1
+	Query: "rhadinaea godmani" ; Times: 2
+	Query: "specificepithet:multiplicata stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "genus:Eleutherodactylus specificepithet:pipilans" ; Times: 1
+	Query: "genus:Cerastes specificepithet:vipera" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea class:amphibia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "rhadinaea taeniata" ; Times: 2
+	Query: "python anchietae" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 4
+	Query: "23148" ; Times: 1
+	Query: "crotalus morulus" ; Times: 1
+	Query: "Crotalus Obscurus" ; Times: 1
+	Query: "Crotalus willardi silus" ; Times: 1
+	Query: "genus:Hydrops" ; Times: 1
+	Query: "genus:Chiromantis specificepithet:rufescens" ; Times: 1
+	Query: "Laticauda semifasciata" ; Times: 1
+	Query: "specificepithet:texanum genus:Ambystoma county:&#34;McCurtain&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Edgefield&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Pseudacris class:amphibia stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;alabama&#34;" ; Times: 2
+	Query: "Sonora ditmarsi" ; Times: 2
+	Query: "rhadinaea kinkelini" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "genus:Crotaphytus county:&#34;Grand&#34;" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "specificepithet:boreas county:&#34;washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Thamnophis specificepithet:rufipunctatus" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "genus:Bothrochilus specificepithet:boa" ; Times: 1
+	Query: "genus:Bradypodion specificepithet:ventrale" ; Times: 1
+	Query: "genus:Agama specificepithet:planiceps" ; Times: 1
+	Query: "Hyalinobatrachium Oaxaca" ; Times: 3
+	Query: "Uta 45374" ; Times: 2
+	Query: "Hyalinobatrachium Guerrero" ; Times: 2
+	Query: "genus:Pseustes specificepithet:poecilonotus" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:orophilus" ; Times: 1
+	Query: "catalognumber:55138 institutioncode:UTA" ; Times: 1
+	Query: "Charadrahyla" ; Times: 1
+	Query: "Uta 45487" ; Times: 2
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "specificepithet:elegans genus:arizona stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Tropidophorus microlepis" ; Times: 6
+	Query: "Crotalus willardi obscurus" ; Times: 1
+	Query: "specificepithet:gabonica genus:Bitis AND (NOT Tanzania NOT Uganda NOT Ghana NOT Cameroon NOT Nigeria NOT Zambia NOT Togo NOT Gabon NOT Liberia NOT Angola NOT Sudan)" ; Times: 2
+	Query: "specificepithet:sylvatica genus:rana stateprovince:&#34;virginia&#34;" ; Times: 2
+	Query: "A.31512" ; Times: 1
+	Query: "specificepithet:alleni genus:micrurus" ; Times: 1
+	Query: "genus:Norops" ; Times: 1
+	Query: "specificepithet:blandingii genus:boiga country:&#34;cameroon&#34;" ; Times: 1
+	Query: "genus:Afrixalus specificepithet:paradorsalis" ; Times: 1
+	Query: "Pituophis melanoleucus south carolina" ; Times: 1
+	Query: "catalognumber:54359 institutioncode:UTA" ; Times: 1
+	Query: "Flavipiperatum" ; Times: 3
+	Query: "genus:Toluca" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus (helleri)" ; Times: 1
+	Query: "specificepithet:bombifrons county:&#34;navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:lecontei class:reptilia stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Sibynomorphus neuwiedi" ; Times: 1
+	Query: "rhadinaea hempsteadae" ; Times: 1
+	Query: "genus:ophiophagus country:&#34;thailand&#34;" ; Times: 2
+	Query: "genus:Amphiuma specificepithet:tridactylum" ; Times: 1
+	Query: "genus:Arizona stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Phrynops geoffroanus" ; Times: 1
+	Query: "catalognumber:52546 institutioncode:UTA" ; Times: 2
+	Query: "genus:Lepidochelys  specificepithet:kempii" ; Times: 1
+	Query: "specificepithet:gratiosa genus:hyla stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum" ; Times: 1
+	Query: "catalognumber:33042 collectioncode:uta" ; Times: 2
+	Query: "Ambystoma flavipiperatum" ; Times: 2
+	Query: "Ambystoma tigrinum californiense" ; Times: 3
+	Query: "class:amphibia county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "catalognumber:8752 institutioncode:UTA" ; Times: 1
+	Query: "genus:Micrurus specificepithet:tener" ; Times: 1
+	Query: "genus:Phrynomantis" ; Times: 1
+	Query: "Willardi chihuahua" ; Times: 4
+	Query: "Xenosaurus platyceps" ; Times: 1
+	Query: "uta zacatecas" ; Times: 1
+	Query: "catalognumber:46759 collectioncode:uta" ; Times: 2
+	Query: "rhadinaea montecristi" ; Times: 1
+	Query: "catalognumber:17862 institutioncode:UTA" ; Times: 1
+	Query: "genus:anolis catalognumber:30914 institutioncode:UTA" ; Times: 1
+	Query: "Rana chiricahuensis" ; Times: 2
+	Query: "catalognumber:54171 institutioncode:UTA" ; Times: 1
+	Query: "Pseudoeurycea werleri" ; Times: 2
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "rhinobothryum bovallii" ; Times: 1
+	Query: "specificepithet:bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "phelsuma grandis" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:plethodon" ; Times: 2
+	Query: "genus:Bothrops country:&#34;Trinidad&#34;" ; Times: 2
+	Query: "genus:ambystoma county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Helminthophis frontalis" ; Times: 2
+	Query: "specificepithet:scalaris genus:Thamnophis stateprovince:&#34;jalisco&#34;" ; Times: 1
+	Query: "Craugastor occidentalis" ; Times: 1
+	Query: "genus:Dermatemys specificepithet:mawii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 985 download events in this period)
+Total number of records downloaded: 5502
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-20 ; Times: 1
+	Date: 2019-07-26 ; Times: 6
+	Date: 2019-07-25 ; Times: 4
+	Date: 2019-07-12 ; Times: 5
+	Date: 2019-07-05 ; Times: 3
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-31 ; Times: 16
+	Date: 2019-07-30 ; Times: 19
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:clarki genus:Sceloporus" ; Times: 1
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Plestiodon" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "specificepithet:propinqua genus:Holbrookia" ; Times: 1
+	Query: "Hyperolius lateralis" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Sceloporus" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "specificepithet:solare genus:phrynosoma" ; Times: 1
+	Query: "Malayemys subtrijuga" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "class:Reptilia country:&#34;Namibia&#34;" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "specificepithet:alleni genus:micrurus" ; Times: 1
+	Query: "specificepithet:hirtipes genus:Kinosternon stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Smilisca fodiens" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "genus:Pantherophis" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "Chamaeleo country:&#34;United States&#34;" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "plethodon ouachitae" ; Times: 1
+	Query: "specificepithet:sonoriense genus:kinosternon" ; Times: 1
+	Query: "Mabuya brachypoda" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Karas&#34; country:&#34;Namibia&#34;" ; Times: 1
+	Query: "Craugastor augusti" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "Hemidactylus frenatus vntype:specimen (guam)" ; Times: 1
+	Query: "Lithobates forreri" ; Times: 1
+	Query: "lygodactylus" ; Times: 1
+	Query: "specificepithet:texanus genus:Cophosaurus" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:kirtlandii genus:Clonophis" ; Times: 1
+	Query: "specificepithet:brevis genus:Coleonyx" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "Craugastor occidentalis" ; Times: 1
+	Query: "Norops nebulosus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "specificepithet:poinsetti genus:Sceloporus" ; Times: 1
+	Query: "telmatobius culeus" ; Times: 1
+
+
+End of report.
