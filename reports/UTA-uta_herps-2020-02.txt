@@ -1,0 +1,336 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 225
+Number of records retrieved in searches: 3293
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 5
+	Country: Ireland ; Times: 3
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 17
+	Country: Costa Rica ; Times: 5
+	Country: United States ; Times: 160
+	Country: Vietnam ; Times: 2
+	Country: French Guiana ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 38
+	Date: 2020-02-05 ; Times: 12
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-26 ; Times: 7
+	Date: 2020-02-27 ; Times: 18
+	Date: 2020-02-06 ; Times: 6
+	Date: 2020-02-21 ; Times: 5
+	Date: 2020-02-22 ; Times: 3
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 10
+	Date: 2020-02-29 ; Times: 6
+	Date: 2020-02-11 ; Times: 9
+	Date: 2020-02-10 ; Times: 8
+	Date: 2020-02-13 ; Times: 7
+	Date: 2020-02-12 ; Times: 6
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 5
+	Date: 2020-02-17 ; Times: 7
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 20
+	Date: 2020-02-18 ; Times: 19
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-03 ; Times: 10
+	Date: 2020-02-20 ; Times: 7
+	Date: 2020-02-07 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophryacus" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "specificepithet:callicephalus" ; Times: 1
+	Query: "Crotalus culminatus" ; Times: 2
+	Query: "Ctenophryne geayi" ; Times: 1
+	Query: "specificepithet:bordai genus:Phyllodactylus institutioncode:UTA" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:millepunctatus genus:Sphaerodactylus institutioncode:UTA" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "genus:Porthidium stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Lygodactylus klugei" ; Times: 2
+	Query: "UTA R-46905" ; Times: 2
+	Query: "specificepithet:septentrionalis genus:Coleodactylus institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:UTA" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis punctatus " ; Times: 1
+	Query: "genus:Coleodactylus country:&#34;Brazil&#34; AND (NOT amazonicus)" ; Times: 1
+	Query: "specificepithet:buchwaldi genus:Lepidoblepharis institutioncode:UTA" ; Times: 1
+	Query: "genus:gonatodes stateprovince:&#34;meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "Eleutherodactylus grandis" ; Times: 1
+	Query: "specificepithet:liocephalus genus:gerrhonotus country:&#34;mexico&#34; institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:rosaurae genus:Sphaerodactylus institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:concinnatus genus:gonatodes country:&#34;Colombia&#34;" ; Times: 2
+	Query: "specificepithet:darwinii genus:Gymnodactylus institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:vittatus genus:Gonatodes institutioncode:UTA" ; Times: 1
+	Query: "54329" ; Times: 3
+	Query: "Micrurus laticollaris" ; Times: 3
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:UTA" ; Times: 1
+	Query: "Abronia fuscolabialis" ; Times: 1
+	Query: "vntype:specimen genus:Siren institutioncode:UTA" ; Times: 4
+	Query: "specificepithet:liocephalus genus:gerrhonotus country:&#34;Mexico&#34; institutioncode:UTA" ; Times: 1
+	Query: "country:Ecuador scientificname:Boa constrictor " ; Times: 1
+	Query: "specificepithet:callicephalus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:UTA" ; Times: 1
+	Query: "gbifdatasetid:8d88898d-a2c4-4616-a1fe-431b9c06b671" ; Times: 1
+	Query: "specificepithet:liocephalus genus:gerrhonotus country:&#34;mexico&#34;" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "specificepithet:gaudichaudii genus:Garthia institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:caglei genus:graptemys" ; Times: 4
+	Query: "Walterinnesia aegyptia" ; Times: 3
+	Query: "class:Amphibia county:&#34;Callahan&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "Plectrohyla avia" ; Times: 1
+	Query: "paramesotriton" ; Times: 3
+	Query: "Thorius dubitus" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "Plectrohyla acanthodes" ; Times: 1
+	Query: "Rana psilonota" ; Times: 1
+	Query: "genus:Salvadora stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Abronia oaxacae" ; Times: 1
+	Query: "country:Ecuador scientificname:Anilius scytale " ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "institutioncode:UTA" ; Times: 1
+	Query: "Gastrotheca ovifera" ; Times: 2
+	Query: "specificepithet:liocephalus genus:gerrhonotus stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Abronia chiszari" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 3
+	Query: "genus:crotalus order:Squamata country:&#34;honduras&#34;" ; Times: 1
+	Query: "specificepithet:meridionalis genus:Coleodactylus institutioncode:UTA" ; Times: 1
+	Query: "Clonophis kirtlandii" ; Times: 1
+	Query: "specificepithet:humeralis genus:Gonatodes institutioncode:UTA" ; Times: 1
+	Query: "mesobaena" ; Times: 1
+	Query: "catalognumber:17185 institutioncode:UTA" ; Times: 1
+	Query: "Oedipina elongata" ; Times: 1
+	Query: "amethistina" ; Times: 3
+	Query: "specificepithet:tigris family:viperidae" ; Times: 1
+	Query: "specificepithet:montecanoensis genus:Lepidoblepharis institutioncode:UTA" ; Times: 1
+	Query: "Abronia ochoterenai" ; Times: 1
+	Query: "specificepithet:insularis genus:Phyllodactylus institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:julieni genus:Phyllodactylus institutioncode:UTA" ; Times: 1
+	Query: "Plectrohyla hartwegi" ; Times: 1
+	Query: "Abronia ornelasi" ; Times: 1
+	Query: "Abronia mitchelli" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "genus:Bombina specificepithet:maxima" ; Times: 1
+	Query: "genus:Rana stateprovince:&#34;Izabal&#34; country:&#34;Guatemala&#34; institutioncode:UTA" ; Times: 1
+	Query: "Xenosaurus newmanorum" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:UTA" ; Times: 1
+	Query: "psarosema" ; Times: 1
+	Query: "crotalus willardi" ; Times: 2
+	Query: "sonora michoacanensis" ; Times: 1
+	Query: "specificepithet:olivaceus genus:varanus" ; Times: 7
+	Query: "heloderma horridum alvarezi" ; Times: 5
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "specificepithet:scripta stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "Abronia lythrochila" ; Times: 1
+	Query: "Crotalus willardi obscurus" ; Times: 1
+	Query: "Sistrurus ravus" ; Times: 2
+	Query: "specificepithet:cinereus genus:Sphaerodactylus institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:uruguayensis genus:Homonota institutioncode:UTA" ; Times: 1
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 2
+	Query: "gbifdatasetid:8d88898d-a2c4-4616-a1fe-431b9c06b671 hyla chrysoscelis" ; Times: 1
+	Query: "genus:Rana country:&#34;Guatemala&#34; institutioncode:UTA" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "ophryacus" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "Crotalus totonacus" ; Times: 1
+	Query: "country:Ecuador scientificname:Kentropyx pelviceps " ; Times: 1
+	Query: "country:Ecuador scientificname:Leptodeira septentrionalis " ; Times: 1
+	Query: "thamnophis sirtalis tetrataenia" ; Times: 2
+	Query: "Vipera latastei" ; Times: 2
+	Query: "genus:charina order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Abronia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "boeleni" ; Times: 1
+	Query: "Abronia smithi" ; Times: 1
+	Query: "specificepithet:periosus genus:Phyllopezus institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:palmeus genus:Phyllodactylus institutioncode:UTA" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 2
+	Query: "Xantusia bolsonae" ; Times: 1
+	Query: "country:Ecuador scientificname:Leptodeira annulata " ; Times: 1
+	Query: "specificepithet:darwinii genus:Homonota institutioncode:UTA" ; Times: 1
+	Query: "Abronia mixteca" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "Xenosaurus agrenon" ; Times: 1
+	Query: "Lachesis melanocephala" ; Times: 5
+	Query: "Petropedetes parkeri institutioncode:UTA" ; Times: 1
+	Query: "gymnodactylus geckoides" ; Times: 1
+	Query: "specificepithet:praesignis genus:Aristelliger institutioncode:UTA" ; Times: 1
+	Query: "gyalopion canum" ; Times: 2
+	Query: "Sceloporus insignis" ; Times: 2
+	Query: "genus:Lepidobatrachus specificepithet:asper" ; Times: 1
+	Query: "genus:Rana specificepithet:taylori" ; Times: 3
+	Query: "Deirochelys genus:Deirochelys stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:miyatai genus:Lepidoblepharis institutioncode:UTA" ; Times: 1
+	Query: "Abronia matudai" ; Times: 2
+	Query: "genus:tantilla institutioncode:UTA" ; Times: 1
+	Query: "&#34;thamnophis sirtalis tetrataenia&#34;" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "hemidactylus frenatus texas" ; Times: 4
+	Query: "gbifdatasetid:8d88898d-a2c4-4616-a1fe-431b9c06b671 mabouia" ; Times: 1
+	Query: "genus:gonatodes stateprovince:&#34;meta&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:scaphiopus" ; Times: 1
+	Query: "catalognumber:17179 institutioncode:UTA" ; Times: 2
+	Query: "Ptychohyla macrotympanum" ; Times: 1
+	Query: "gbifdatasetid:8d88898d-a2c4-4616-a1fe-431b9c06b671 apalone spinifera" ; Times: 2
+	Query: "specificepithet:xanthostigma genus:Lepidoblepharis institutioncode:UTA" ; Times: 1
+	Query: "Otophryne pyburni institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:concinnatus genus:gonatodes stateprovince:&#34;meta&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "specificepithet:heyerorum genus:Lepidoblepharis institutioncode:UTA" ; Times: 1
+	Query: "genus:Porthidium stateprovince:&#34;Colima&#34;" ; Times: 1
+	Query: "specificepithet:gerrhopygus genus:Phyllodactylus institutioncode:UTA" ; Times: 1
+	Query: "Sceloporus heterolepis" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 2
+	Query: "specificepithet:hasemani genus:Gonatodes institutioncode:UTA" ; Times: 1
+	Query: "Xenosaurus platyceps" ; Times: 2
+	Query: "Boa nebulosa" ; Times: 1
+	Query: "spinifera texas" ; Times: 2
+	Query: "siopela" ; Times: 1
+	Query: "specificepithet:calligaster genus:lampropeltis stateprovince:&#34;georgia&#34;" ; Times: 2
+	Query: "specificepithet:concinnatus genus:Gonatodes institutioncode:UTA" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironius fuscus " ; Times: 1
+	Query: "genus:Lepidoblepharis country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Desmognathus fuscus arlington" ; Times: 1
+	Query: "Xenosaurus rackhami" ; Times: 1
+	Query: "specificepithet:geckoides genus:Gymnodactylus institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:transversalis genus:Anolis" ; Times: 1
+	Query: "pseudocerastes fieldi" ; Times: 1
+	Query: "country:Ecuador scientificname:Stenocercus humeralis " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 1023 download events in this period)
+Total number of records downloaded: 7071
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 21
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 41
+	Country: Vietnam ; Times: 2
+	Country: French Guiana ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-03 ; Times: 10
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 14
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 7
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-15 ; Times: 4
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-16 ; Times: 3
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Pseudoeurycea brunnata" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Plectrohyla ixil" ; Times: 1
+	Query: "&#34;Cerastes vipera&#34;" ; Times: 1
+	Query: "Plectrohyla guatemalensis" ; Times: 1
+	Query: "Plectrohyla hartwegi" ; Times: 1
+	Query: "Pseudoeurycea goebeli" ; Times: 1
+	Query: "Plectrohyla acanthodes" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pseudoeurycea rex" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "&#34;Cerastes cerastes&#34;" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "Ptychohyla macrotympanum" ; Times: 1
+	Query: "Oedipina" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "specificepithet:streckeri genus:Pseudacris" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "echis coloratus" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Craugastor country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Plectrohyla avia" ; Times: 1
+	Query: "centrolenidae" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:concinnatus genus:gonatodes country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Xenosaurus platyceps" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "silurana tropicalis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Xenosaurus newmanorum" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "Xenosaurus agrenon" ; Times: 1
+	Query: "Xantusia bolsonae" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "specificepithet:caglei genus:Graptemys" ; Times: 1
+	Query: "specificepithet:tonkawae genus:eurycea" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "pseudacris streckeri" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "specificepithet:callicephalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:brachyphona genus:Pseudacris" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "Boa nebulosa" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "specificepithet:caglei genus:graptemys" ; Times: 1
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "Walterinnesia aegyptia" ; Times: 2
+	Query: "anilius scytale" ; Times: 1
+	Query: "Abronia graminea" ; Times: 1
+	Query: "Xenosaurus rackhami" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+
+
+End of report.
