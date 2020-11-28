@@ -1,0 +1,202 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 1514
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 87
+	Country: Australia ; Times: 7
+	Country: Mexico ; Times: 50
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-22 ; Times: 5
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-25 ; Times: 1
+	Date: 2020-06-08 ; Times: 16
+	Date: 2020-06-09 ; Times: 12
+	Date: 2020-06-06 ; Times: 6
+	Date: 2020-06-07 ; Times: 11
+	Date: 2020-06-04 ; Times: 8
+	Date: 2020-06-05 ; Times: 32
+	Date: 2020-06-02 ; Times: 13
+	Date: 2020-06-03 ; Times: 11
+	Date: 2020-06-01 ; Times: 31
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-27 ; Times: 1
+	Date: 2020-06-10 ; Times: 7
+	Date: 2020-06-11 ; Times: 4
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Agkistrodon piscivorous" ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;Atlantico&#34; country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:sistrurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "tantilla tecta" ; Times: 1
+	Query: "tantilla impensa" ; Times: 1
+	Query: "genus:Micrurus class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "tantilla jani" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; AND (NOT CAS NOT FMNH NOT UMMZ NOT MCZ NOT CM NOT AMNH)" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "tantilla taeniata" ; Times: 1
+	Query: "genus:Pseustes country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; AND (NOT KU NOT MVZ NOT FMNH)" ; Times: 1
+	Query: "country:Ecuador scientificname:Anolis punctatus " ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "Varanus kordensis" ; Times: 2
+	Query: "Neusticurus ocellatus" ; Times: 1
+	Query: "Proctoporus bolivianus" ; Times: 1
+	Query: "Varanus similis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34; institutioncode:UTA" ; Times: 1
+	Query: "genus:Siren institutioncode:UTA basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "Dermophis oaxacae" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "specificepithet:margaritiferus genus:Drymobius class:Reptilia country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;La Guajira&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS) institutioncode:UTA" ; Times: 1
+	Query: "Duellmanohyla chamulae" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "tantilla brevicauda" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "tantilla canula" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Atlantico&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "uta 56264" ; Times: 1
+	Query: "genus:Helicops country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "xucanebi amphibia" ; Times: 1
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "Ovophis okinavensis" ; Times: 1
+	Query: "genus:Liophis country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "morelia nauta" ; Times: 1
+	Query: "institutioncode:UTA" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinella marina " ; Times: 2
+	Query: "genus:Erythrolamprus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:marmoratus genus:desmognathus stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cranwelli" ; Times: 3
+	Query: "trimorphodon texas" ; Times: 1
+	Query: "country:Ecuador scientificname:Ninia atrata " ; Times: 1
+	Query: "tantilla bairdi" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "tantilla vulcani" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "Oklahoma cemophorA" ; Times: 8
+	Query: "Duellmanohyla ignicolor" ; Times: 2
+	Query: "Ptychohyla specificepithet:macrotympanum" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "oedipina uniformis" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 2
+	Query: "specificepithet:skiltonianus genus:Eumeces stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Carphophis vermis texas" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS) institutioncode:UTA" ; Times: 1
+	Query: "tantilla moesta" ; Times: 1
+	Query: "Carphophis Texas" ; Times: 3
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "genus:Leptophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Ptychohyla specificepithet:macrotympanum" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;La Guajira&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "trachydermus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Ninia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Synophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "tantilla cuniculator" ; Times: 1
+	Query: "genus:Oxybelis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Tantilla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; AND (NOT KU NOT MVZ NOT FMNH) institutioncode:UTA" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; institutioncode:UTA" ; Times: 1
+	Query: "Bolitoglossa veracrucis" ; Times: 1
+	Query: "tantilla shawi" ; Times: 1
+	Query: "tantilla schistosa" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "oedipina sp" ; Times: 1
+	Query: "Ptychohyla macrotympanum" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "tantilla lintoni" ; Times: 1
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34; Opheodrys" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "genus:chironius country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:UTA" ; Times: 1
+	Query: "Duellmanohyla schmidtorum" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Sceloporus salvini" ; Times: 15
+	Query: "Sonora michoacanensis" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Varanus melinus" ; Times: 2
+	Query: "tantilla sertula" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Ptychohyla acrochorda" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis stateprovince:&#34;Oregon&#34;" ; Times: 4
+	Query: "specificepithet:lansbergii genus:Porthidium class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 474 download events in this period)
+Total number of records downloaded: 906
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-22 ; Times: 2
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-25 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Desmognathus welteri" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "genus:Liophis country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Proctoporus bolivianus" ; Times: 2
+	Query: "Neusticurus ocellatus" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Eumeces stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Dipsas country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ovophis okinavensis" ; Times: 1
+	Query: "Neusticurus ecpleopus" ; Times: 1
+	Query: "specificepithet:atrox country:&#34;Peru&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "morelia nauta" ; Times: 1
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+
+
+End of report.
