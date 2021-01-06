@@ -1,0 +1,324 @@
+Report for Institution Code UTA, Resource uta_herps
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 189
+Number of records retrieved in searches: 1742
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 116
+	Country: Peru ; Times: 15
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 9
+	Country: Panama ; Times: 7
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 18
+	Country: Sweden ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 3
+	Date: 2020-12-31 ; Times: 9
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 3
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-06 ; Times: 6
+	Date: 2020-12-05 ; Times: 5
+	Date: 2020-12-04 ; Times: 16
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 10
+	Date: 2020-12-01 ; Times: 4
+	Date: 2020-12-25 ; Times: 5
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-27 ; Times: 14
+	Date: 2020-12-26 ; Times: 4
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-20 ; Times: 4
+	Date: 2020-12-23 ; Times: 5
+	Date: 2020-12-22 ; Times: 11
+	Date: 2020-12-29 ; Times: 5
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-18 ; Times: 5
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-13 ; Times: 26
+	Date: 2020-12-14 ; Times: 15
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 10
+	Date: 2020-12-17 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "lachesis acrochorda" ; Times: 1
+	Query: "Ophryacus" ; Times: 3
+	Query: "41264" ; Times: 1
+	Query: "Carettochelyidae insculpta" ; Times: 1
+	Query: "Salamandra atra" ; Times: 1
+	Query: "genus:Rhacophorus specificepithet:barisani" ; Times: 1
+	Query: "genus:crotalus county:&#34;gulf&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "country:Ecuador scientificname:Bothrops asper " ; Times: 1
+	Query: "Crotalus willardi meridionalis" ; Times: 5
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:salvinii" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 2
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "bothrops moojeni" ; Times: 1
+	Query: "Trachyboa gularis" ; Times: 1
+	Query: "specificepithet:perstriatus genus:Notophthalmus" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Siebenrockiella crassicollis" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Cuora flavomarginata" ; Times: 1
+	Query: "Sceloporus maculosus" ; Times: 9
+	Query: "gorzugi" ; Times: 1
+	Query: "specificepithet:canaliferus family:bufonidae stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Cuora galbinifrons" ; Times: 1
+	Query: "Mauremys nigricans" ; Times: 1
+	Query: "Incilius luetkenii" ; Times: 1
+	Query: "Masticophis taeniatus oregon" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "genus:desmognathus county:&#34;jasper&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Virginia&#34;" ; Times: 10
+	Query: "spea hammondi" ; Times: 2
+	Query: "Leptodactylus diedrus" ; Times: 1
+	Query: "specificepithet:maculosus genus:Necturus stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Ptychohyla spinipollex" ; Times: 1
+	Query: "Dicamptodon tenebrosus stateprovince:&#34;Washington&#34;" ; Times: 4
+	Query: "carettochelys insculpta" ; Times: 1
+	Query: "genus:Paramesotriton specificepithet:deloustali" ; Times: 1
+	Query: "Sacalia quadriocellata" ; Times: 1
+	Query: "genus:Desmognathus county:&#34;tyler&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "genus:Triprion stateprovince:&#34;Colima&#34;" ; Times: 1
+	Query: "Abronia deppii" ; Times: 2
+	Query: "Lachesis acrochorda" ; Times: 1
+	Query: "42634" ; Times: 1
+	Query: "genus:Eurycea specificepithet:latitans" ; Times: 1
+	Query: "43687" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Chiquimula&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:speciosus family:Bufonidae county:&#34;Starr&#34; stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "Bothriechis schlegelii" ; Times: 3
+	Query: "specificepithet:speciosus family:Bufonidae county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "41988" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "coleonyx mitratus costa rica" ; Times: 1
+	Query: "Masticophis taeniatus stateprovince:&#34;Oregon&#34;" ; Times: 3
+	Query: "specificepithet:meridionalis genus:Anolis" ; Times: 2
+	Query: "specificepithet:wrighti genus:batrachoseps" ; Times: 1
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:chrysemys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Helicops angulatus " ; Times: 1
+	Query: "genus:Stereochilus stateprovince:&#34;North Carolina&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Bothriechis schlegelii " ; Times: 1
+	Query: "specificepithet:idahoensis genus:plethodon" ; Times: 1
+	Query: "genus:pseudemys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "hemidactylus mabouia texas" ; Times: 1
+	Query: "catalognumber:6850 institutioncode:UTA" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Crockett&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "Vipera latastei" ; Times: 1
+	Query: "Bothrops brazili" ; Times: 3
+	Query: "genus:Plestiodon family:Scincidae county:&#34;Dallas&#34; stateprovince:&#34;Texas&#34; institutioncode:UTA" ; Times: 1
+	Query: "Bothrocophias hyoprora" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Diploglossus monotropis" ; Times: 1
+	Query: "49709" ; Times: 1
+	Query: "genus:Trimorphodon country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "lachesis stenophrys" ; Times: 4
+	Query: "specificepithet:tridactylum genus:Amphiuma stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Pseudoboa neuwiedii" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus order:Anura county:&#34;Palo Pinto&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Reeves&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Desmognathus stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "genus:Pituophis county:&#34;Culberson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Heosemys grandis" ; Times: 1
+	Query: "genus:Plethodon specificepithet:savannah" ; Times: 7
+	Query: "lachesis melanocephala" ; Times: 1
+	Query: "agrenon" ; Times: 1
+	Query: "genus:Leptodrymus" ; Times: 1
+	Query: "genus:Hoplocercus" ; Times: 1
+	Query: "Trachyboa boulengeri" ; Times: 1
+	Query: "Bothriopsis punctata" ; Times: 7
+	Query: "specificepithet:septemvittatus family:Teiidae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Ceratophrys calcarata" ; Times: 3
+	Query: "specificepithet:couchii genus:Scaphiopus order:Anura county:&#34;Throckmorton&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Micrurus obscurus" ; Times: 1
+	Query: "Ptychohyla macrotympanum" ; Times: 1
+	Query: "Allophrynidae" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus order:Anura county:&#34;San Saba&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maculatum genus:Ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Cochranella spiculata" ; Times: 1
+	Query: "Sacalia bealei" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Crotalus nuntius" ; Times: 1
+	Query: "genus:Desmognathus county:&#34;Jasper&#34; stateprovince:&#34;texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "UTA-R 26573" ; Times: 1
+	Query: "Cercolophia steindachneri" ; Times: 1
+	Query: "Cochranella nola" ; Times: 1
+	Query: "specificepithet:scalaris family:Teiidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cm 44856" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Abronia deppei" ; Times: 1
+	Query: "genus:Stereochilus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Geoemyda spengleri" ; Times: 1
+	Query: "Cyclemys dentata" ; Times: 1
+	Query: "Mauremys japonica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 140 (out of 705 download events in this period)
+Total number of records downloaded: 18085
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 33
+	Country: Panama ; Times: 3
+	Country: United States ; Times: 66
+	Country: Colombia ; Times: 16
+	Country: Spain ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 6
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-23 ; Times: 31
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 7
+	Date: 2020-12-02 ; Times: 47
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-12 ; Times: 9
+	Date: 2020-12-13 ; Times: 3
+	Date: 2020-12-14 ; Times: 12
+	Date: 2020-12-15 ; Times: 9
+	Date: 2020-12-01 ; Times: 6
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lachesis acrochorda" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Hydromantes italicus" ; Times: 2
+	Query: "Uromastyx acanthinurus" ; Times: 1
+	Query: "genus:Desmognathus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Chamaeleo calyptratus" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "Leptodactylus insularum" ; Times: 1
+	Query: "Pleurodema brachyops" ; Times: 1
+	Query: "Callopistes maculatus" ; Times: 1
+	Query: "Tiliqua rugosa" ; Times: 1
+	Query: "bothrops moojeni" ; Times: 1
+	Query: "Egernia cunninghami" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 1
+	Query: "Cordylus cordylus" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "gorzugi" ; Times: 1
+	Query: "plethodon vandykei" ; Times: 1
+	Query: "Scinax ruber" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 2
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "ambystoma talpoideum" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "Eurycea tonkawae" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "plethodon montanus" ; Times: 2
+	Query: "eurycea longicauda" ; Times: 1
+	Query: "desmognathus quadramaculatus" ; Times: 2
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "Typhlonectes natans" ; Times: 1
+	Query: "calotes versicolor" ; Times: 1
+	Query: "notophthalmus perstriatus" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "(Hemidactylium scutatum)" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 2
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "genus:Crotalus family:Viperidae country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "Leptodactylus poecilochilus" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Hyalinobatrachium fleischmanni" ; Times: 1
+	Query: "plethodon albagula" ; Times: 1
+	Query: "Trachyboa gularis" ; Times: 2
+	Query: "specificepithet:hortulanus genus:Corallus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "plethodon cylindraceus" ; Times: 1
+	Query: "plethodon dunni" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "plethodon yonahlossee" ; Times: 1
+	Query: "Vipera latastei" ; Times: 1
+	Query: "Plethodon metcalfi" ; Times: 2
+	Query: "class:Amphibia country:Brazil" ; Times: 3
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "aneides ferreus" ; Times: 1
+	Query: "Pseudopaludicola pusilla" ; Times: 1
+	Query: "Tiliqua multifasciata" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "Bolitoglossa rostrata" ; Times: 1
+	Query: "Anilius" ; Times: 2
+	Query: "Anolis auratus" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "Oplurus cuvieri" ; Times: 1
+	Query: "Bolitoglossa occidentalis" ; Times: 1
+	Query: "Trogonophis wiegmanni" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "genus:crotalus family:viperidae country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "genus:MICRURUS country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "plethodon cheoah" ; Times: 1
+	Query: "desmognathus conanti" ; Times: 2
+	Query: "Lacerta agilis" ; Times: 2
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "agama agama" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "bolitoglossa rufescens" ; Times: 1
+	Query: "Trachyboa boulengeri" ; Times: 2
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Ceratophrys calcarata" ; Times: 3
+	Query: "desmognathus orestes" ; Times: 1
+	Query: "Coronella austriaca" ; Times: 1
+	Query: "pseudoeurycea smithi" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "plethodon ventralis" ; Times: 2
+	Query: "genus:Desmognathus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Leptodactylus fuscus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Varanus gilleni" ; Times: 1
+	Query: "lachesis stenophrys" ; Times: 1
+	Query: "plethodon jordani" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+
+
+End of report.
